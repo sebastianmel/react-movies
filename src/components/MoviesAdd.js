@@ -9,8 +9,8 @@ const Add = () => {
         release_date: "",
         categories: [],
         description: "",
-        actors:[],
-        similar_movies:[],
+        actors: [],
+        similar_movies: [],
         poster: 'https://ridzeal.com/wp-content/uploads/2021/08/summer-movies-2021-new-e1620919489437-1536x1167.jpg',
 
     });
@@ -25,7 +25,7 @@ const Add = () => {
             [name]: value
         }));
 
-        // console.log(data);
+        console.log(data);
 
 
     }
@@ -38,15 +38,15 @@ const Add = () => {
             title: data.title,
             release_date: data.release_date,
             description: data.description,
-            categories: [data.categories],
+            categories: [data.categories,data.categories1,data.categories2],
             poster: 'https://images-na.ssl-images-amazon.com/images/I/71aH-U9+EfL.png',
             actors: data.actors,
             similar_movies: data.similar_movies
 
 
         })
-           
-console.log(data);
+
+        console.log(data);
 
 
     }
@@ -56,56 +56,76 @@ console.log(data);
 
 
 
-return (
-    <div className="add">
+    return (
+        <div className="add">
 
 
-       
-        <br></br>
+
+            <br></br>
 
 
-        <form>
-            <div className="form-group">
-                <label for="exampleFormControlInput1">Nom du film</label>
-                <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="nom du film" name="title" value={data.title} onChange={ChangeAdd}></input>
+            <form>
+                <div className="form-group">
+                    <label for="exampleFormControlInput1">Nom du film</label>
+                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="nom du film" name="title" value={data.title} onChange={ChangeAdd}></input><br></br>
+                    
+
+                </div>
+
+                   
+                <div><br></br>
                 <label for="exampleFormControlInput1">Description</label>
-                <textarea type="text" class="form-control" id="exampleFormControlInput1" placeholder="description du film" name="description" value={data.description} onChange={ChangeAdd}></textarea>
+                    <textarea type="text" class="form-control" id="exampleFormControlInput1" placeholder="description du film" name="description" value={data.description} onChange={ChangeAdd}></textarea>
+                </div>
 
-            </div>
+                <div>
+                    <label for="start">Date de sortie :</label>
 
-            <div>
-                <label for="start">Date de sortie :</label>
+                    <input type="date" id="start" name="release_date" value={data.release_date} min="2018-01-01" max="2022-12-31" onChange={ChangeAdd} ></input>
+                </div>
 
-                <input type="date" id="start" name="release_date" value={data.release_date} min="2018-01-01" max="2022-12-31" onChange={ChangeAdd} ></input>
-            </div>
+                <div class="form-group">
+                    {/* <label for="exampleFormControlSelect2">Categories du films</label>
+                    <select class="form-control form-control-sm" onChange={ChangeAdd} name="categories" value={data.categories}>
+                        <option selected ></option>
+                        <option selected value="Action">Action</option>
+                        <option>Aventure</option>
+                        <option>Science-Fiction</option>
+                    </select> */}
 
-            <div class="form-group">
-                <label for="exampleFormControlSelect2">Categories du films</label>
-                <select class="form-control form-control-sm" onChange={ChangeAdd} name="categories" value={data.categories}>
-                    <option selected ></option>
-                    <option selected value="Action">Action</option>
-                    <option>Aventure</option>
-                    <option>Science-Fiction</option>
-                </select>
+                    
+                    <label for="exampleFormControlSelect2">Categories du films</label>
+                        <input type="checkbox" id="Action" name="categories"
+                             value="Action" onChange={ChangeAdd}></input>
+                        <label for="Action">Action</label>
 
+                        <input type="checkbox" id="Aventure" name="categories"
+                            value="Aventure" onChange={ChangeAdd}></input>
+                        <label for="Aventure">Aventure</label>
 
-
-            </div>
-
-
-
-
-            <button type="button" class="btn btn-outline-success" onClick={AddMovie} >Ajouter</button>
-            <input class="btn btn-success" type="reset" value="Reset"></input>
-
-
-        </form>
-
-
-    </div>
+                        <input type="checkbox" id="Science-Fiction" name="categories"
+                             value="Science-Fictio" onChange={ChangeAdd}></input>
+                        <label for="Science-Fiction">Science-Fiction</label>
+                   
+                    
 
 
-);
+                </div>
+
+
+
+
+                <button type="button" class="btn btn-outline-success" onClick={AddMovie} >Ajouter</button>
+                <input class="btn btn-success" type="reset" value="Reset"></input>
+
+
+            </form>
+
+
+        </div>
+
+
+    );
 }
 
 export default Add;
