@@ -7,7 +7,7 @@ const About = () => {
         <div>
             <Logo/>
             <Navigation/>
-            <p>
+            <p className="wit">
             Le streaming est utilisé pour visionner ou écouter des contenus en ligne. Ce protocole permet la lecture instantanée de
              vidéos ou de musiques, directement dans le navigateur web. ... Le streaming permet ainsi simplement de regarder des vidéos
               ou d'écouter de la musique sur Internet, sans avoir à télécharger de fichier.

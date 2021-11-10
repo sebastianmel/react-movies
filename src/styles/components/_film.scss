@@ -1,6 +1,10 @@
 .films{
-    width: 300px;
+    
     border: none;
+    // display: flex;
+    margin: auto ;
+    width: 60%;
+
     
     
     
@@ -18,11 +22,12 @@
     
         
         display: flex;
-        flex-flow: row wrap;
+        flex-wrap: wrap;
+        // flex-flow: row wrap;
         justify-content: space-around;
         
         
-        // width: 400px;
+        
         
         img{
             width: 200px;
@@ -34,6 +39,7 @@
 
     .films-list p{
         color: black;
+        font-size: 15px;
     }
 
     .film{
@@ -49,8 +55,8 @@
     .boutton{
         color: white;
         font-size: 15px;
-        height: 30px;
-        width: 50px;
+        height: 20px;
+        width: 45px;
         border-radius:5px ;
         background-color: $color-6;
         border: none;

@@ -1,5 +1,6 @@
 import React from 'react';
 import Logo from '../components/Logo';
+import Add from '../components/MoviesAdd';
 import Navigation from '../components/Navigation';
 
 const Ajout = () => {
@@ -8,7 +9,8 @@ const Ajout = () => {
         <div>
             <Logo/>
             <Navigation/>
-            ajout de films
+           <h1> Ajout de films :</h1>
+            <Add/>
         </div>
     );
 };
