@@ -25,7 +25,9 @@ const Add = () => {
             [name]: value
         }));
 
+
         console.log(data);
+
 
 
     }
@@ -38,7 +40,7 @@ const Add = () => {
             title: data.title,
             release_date: data.release_date,
             description: data.description,
-            categories: [data.categories,data.categories1,data.categories2],
+            categories: data.categories,
             poster: 'https://images-na.ssl-images-amazon.com/images/I/71aH-U9+EfL.png',
             actors: data.actors,
             similar_movies: data.similar_movies
@@ -94,17 +96,17 @@ const Add = () => {
                     </select> */}
 
                     
-                    <label for="exampleFormControlSelect2">Categories du films</label>
+                    <label for="exampleFormControlSelect2">Categories du films</label> <br></br>
                         <input type="checkbox" id="Action" name="categories"
-                             value="Action" onChange={ChangeAdd}></input>
+                              value={data.categories=["Action"]}  onChange={ChangeAdd}></input>
                         <label for="Action">Action</label>
 
                         <input type="checkbox" id="Aventure" name="categories"
-                            value="Aventure" onChange={ChangeAdd}></input>
+                            value={data.categories=["Aventure"]} onChange={ChangeAdd}></input>
                         <label for="Aventure">Aventure</label>
 
                         <input type="checkbox" id="Science-Fiction" name="categories"
-                             value="Science-Fictio" onChange={ChangeAdd}></input>
+                             value={data.categories1=["Science-Fiction"]} onChange={ChangeAdd}></input>
                         <label for="Science-Fiction">Science-Fiction</label>
                    
                     
