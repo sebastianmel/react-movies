@@ -1,4 +1,6 @@
 import axios from "axios";
+import { Button } from 'react-bootstrap';
+
 
 // function de suppression de films
 
@@ -29,9 +31,9 @@ const Delete = ({id,setData}) => {
 
 
     return (
-        <button type="button"  onClick={delMovie}>
+        <Button type="button" variant="outline-secondary"  onClick={delMovie}>
             Supprimer
-        </button>
+        </Button>
       );
 }
  

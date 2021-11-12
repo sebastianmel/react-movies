@@ -22,5 +22,18 @@
     .description{
         margin: 100px;
         text-align: center;
+        display: flex;
+        background-color: gainsboro;
+        border-radius: 15px;
+    }
+    .otherMovies{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    .actors{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
     }
 }

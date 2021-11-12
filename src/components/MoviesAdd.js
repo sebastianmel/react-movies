@@ -16,23 +16,79 @@ const Add = () => {
     });
     // ChangeAdd met a jour les valeurs des input
     const ChangeAdd = (e) => {
-        console.log(e.target.value);
+        // console.log(e.target.value);
 
         const name = e.target.name;
         const value = e.target.value;
+
         setData(prevState => ({
+
             ...prevState,
             [name]: value
+            
+
+
+
         }));
+         
 
-
-        console.log(data);
-
-
+       
 
     }
 
+    const Changecategorie = (e) => {
+        // console.log(e.target.value);
 
+        
+        const value = e.target.value;
+
+        
+        if ( data.categories.includes(value) ){
+            setData(prevState => ({
+              ...prevState,
+
+              categories: data.categories.filter(e=>e !== value)
+          }));
+          }
+          else{
+            setData(prevState => ({
+              ...prevState,
+              categories: [...prevState.categories, value ]
+          }));
+          }
+
+        
+
+
+
+
+    }   
+
+
+    // const Changeactors = (e) => {
+        
+
+        
+    //     const value = e.target.value;
+
+        
+    //     if ( data.categories.includes(value) ){
+    //         setData(prevState => ({
+    //           ...prevState,
+
+    //           categories: data.categories.filter(e=>e !== value)
+    //       }));
+    //       }
+    //       else{
+    //         setData(prevState => ({
+    //           ...prevState,
+    //           categories: [...prevState.categories, value ]
+    //       }));
+    //       }
+
+    // }
+
+    console.log(data);
 
     const AddMovie = () => {
 
@@ -47,6 +103,8 @@ const Add = () => {
 
 
         })
+
+
 
         console.log(data);
 
@@ -70,13 +128,13 @@ const Add = () => {
                 <div className="form-group">
                     <label for="exampleFormControlInput1">Nom du film</label>
                     <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="nom du film" name="title" value={data.title} onChange={ChangeAdd}></input><br></br>
-                    
+
 
                 </div>
 
-                   
+
                 <div><br></br>
-                <label for="exampleFormControlInput1">Description</label>
+                    <label for="exampleFormControlInput1">Description</label>
                     <textarea type="text" class="form-control" id="exampleFormControlInput1" placeholder="description du film" name="description" value={data.description} onChange={ChangeAdd}></textarea>
                 </div>
 
@@ -95,21 +153,21 @@ const Add = () => {
                         <option>Science-Fiction</option>
                     </select> */}
 
-                    
+
                     <label for="exampleFormControlSelect2">Categories du films</label> <br></br>
-                        <input type="checkbox" id="Action" name="categories"
-                              value={data.categories=["Action"]}  onChange={ChangeAdd}></input>
-                        <label for="Action">Action</label>
+                    <input type="checkbox" id="Action" name="categories"
+                        value={"Action"} onChange={Changecategorie}></input>
+                    <label for="Action">Action</label>
 
-                        <input type="checkbox" id="Aventure" name="categories"
-                            value={data.categories=["Aventure"]} onChange={ChangeAdd}></input>
-                        <label for="Aventure">Aventure</label>
+                    <input type="checkbox" id="Aventure" name="categories"
+                        value={"Aventure"} onChange={Changecategorie}></input>
+                    <label for="Aventure">Aventure</label>
 
-                        <input type="checkbox" id="Science-Fiction" name="categories"
-                             value={data.categories1=["Science-Fiction"]} onChange={ChangeAdd}></input>
-                        <label for="Science-Fiction">Science-Fiction</label>
-                   
-                    
+                    <input type="checkbox" id="Science-Fiction" name="categories"
+                        value={"Science-Fiction"} onChange={Changecategorie}></input>
+                    <label for="Science-Fiction">Science-Fiction</label>
+
+
 
 
                 </div>
@@ -118,7 +176,7 @@ const Add = () => {
 
 
                 <button type="button" class="btn btn-outline-success" onClick={AddMovie} >Ajouter</button>
-                <input class="btn btn-success" type="reset" value="Reset"></input>
+                
 
 
             </form>

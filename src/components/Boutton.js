@@ -46,19 +46,33 @@ function Boutton() {
 
                                 <p>infos : 
                                     
-                                    {"sortie le : "+data.release_date}
+                                    {data.release_date}
+                                    {data.categories.map((key)=>{
+                                    return <p>{key}</p> ;
+                                })}
                                 </p>
 
                                     </div>
                             </div>
 
                            
+
                             <div className="description">
 
                                 <p>{data.description.replace(/(<([^>]+)>)/gi, "")}</p>
-                            </div>
 
-                            
+                                {data.actors.map((key)=>{
+                                    return <div className="actors"><img src={key.photo} style={{ width: '55%', height:'50%' }}></img><br></br><p>{key.name+"/"} {key.character}</p> </div>;
+                                })}
+                                
+                            </div>
+                            <h2>Films similaires :</h2>
+                            <div className="otherMovies">
+                            {data.similar_movies.map((key)=>{
+                                return <div> <br></br><img style={{ width: '70%' }}src={key.poster}></img><h1>{key.title}</h1><p>{key.release_date}</p></div>;
+                                })}
+
+                            </div>
 
                         </div>
 
