@@ -1,23 +1,11 @@
 import { useState } from 'react';
 import axios from "axios";
-import AsyncSelect from 'react-select/async';
-import Movies from './Movies';
+import search from "./Movies";
+
 
 
 const Add = () => {
-
-    const [inputValue, setValue] = useState('');
-    const [selectedValue, setSelectedValue] = useState(null);
-
-
-    const  handleInputChange = value => {
-        setValue(value);
-      }
-  
-      const handleChange = value =>{
-        setSelectedValue(value);
-      }
-    // stock les donnÃ©es des recettes dans un format objet pour que axios les envoie a l api
+    // stock les données des recettes dans un format objet pour que axios les envoie a l api
     const [data, setData] = useState({
         title: "",
         release_date: "",
@@ -32,16 +20,31 @@ const Add = () => {
     // ChangeAdd met a jour les valeurs des input
     const ChangeAdd = (e) => {
         // console.log(e.target.value);
+
         const name = e.target.name;
         const value = e.target.value;
+
         setData(prevState => ({
+
             ...prevState,
             [name]: value
+
+
+
+
         }));
+
+
+
+
     }
 
     const Changecategorie = (e) => {
+        // console.log(e.target.value);
+
+
         const value = e.target.value;
+
 
         if (data.categories.includes(value)) {
             setData(prevState => ({
@@ -56,6 +59,11 @@ const Add = () => {
                 categories: [...prevState.categories, value]
             }));
         }
+
+
+
+
+
 
     }
 
@@ -73,40 +81,47 @@ const Add = () => {
             poster: data.poster,
             actors: data.actors,
             similar_movies: data.similar_movies
+
+
         })
 
+
+
         console.log(data);
+
+
     }
 
-    const search = async (inputValue) => {
-        try {
-          const response = await Movies.search(inputValue);
-          return response.data.results;
-        } catch (e) {
-          console.log(e);
-        }
-      }
+    
+
+
+
+
+
+
+
+
 
 
     return (
         <div className="add">
-          <br></br>
+
+
+
+            <br></br>
 
 
             <form>
                 <div className="form-group">
                     <label for="exampleFormControlInput1">Nom du film</label>
                     <input list="navigateurs" id="monNavigateur" name="title" value={data.title} onChange={ChangeAdd} ></input>
-                    <AsyncSelect
-                        cacheOptions
-                        defaultOptions
-                        value={selectedValue}
-                        getOptionLabel={e => e.title}
-                        getOptionValue={e => e.title}
-                        loadOptions={search}
-                        onInputChange={handleInputChange}
-                        onChange={handleChange}
-                   />
+                    <datalist id="ice-cream-flavors">
+                        <option value="Chocolate"></option>
+                        <option value="Coconut"></option>
+                        <option value="Mint"></option>
+                        <option value="Strawberry"></option>
+                        <option value="Vanilla"></option>
+                    </datalist>
 
                     {/* <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="nom du film" name="title" value={data.title} onChange={ChangeAdd}></input> */}
                     <br></br>

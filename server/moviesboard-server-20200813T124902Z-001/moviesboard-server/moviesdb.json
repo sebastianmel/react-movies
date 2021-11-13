@@ -100,19 +100,6 @@
       "actors": [],
       "similar_movies": [],
       "id": 10
-    },
-    {
-      "title": "Chrome",
-      "release_date": "2021-11-17",
-      "description": "erer",
-      "categories": [
-        "Science-Fiction",
-        "Aventure"
-      ],
-      "poster": "https://h5ckfun.info/wp-content/uploads/2018/05/68747470733a2f2f687a7765622e68692d72657a67616d652e6e65742f70616c6164696e732d7765622f77702d636f6e74656e742f75706c6f6164732f323031362f30392f4f4233345f426c6f675f507265737352656c656173652e6a7067.jpg",
-      "actors": [],
-      "similar_movies": [],
-      "id": 11
     }
   ]
 }

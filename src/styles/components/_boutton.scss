@@ -15,6 +15,7 @@
         text-align: center;
         // margin: 3%;
     }
+   
     h1{
         text-align: center;
         color:black;
@@ -24,15 +25,20 @@
         justify-content: center;
         text-align: center;
     }
+    .otherMovies img{
+       width: 70%;
+    }
     .description{
         margin: 100px;
+        padding: auto;
         text-align: center;
         display: flex;
         background-color: gainsboro;
         border-radius: 15px;
     }
     .actors{
-        border: 2px #ffff00 solid;
+        padding-top: 2% ;
+        border: none;
         width: 55%;
         height: 100%;
         display: flex;
@@ -44,7 +50,12 @@
         flex-wrap: wrap;
         height: 100%;
         width: 200px;
-        border: 2px red solid;
+        border: none;
+    }
+    .actor img{
+        
+        width: 40%;
+        height: 30%;
     }
 
     @media (max-width: 1326px) { 
@@ -72,12 +83,19 @@
             display: block;
             justify-content: center;
             text-align: center;
+           
         }
+        .otherMovies img{
+            width: 40%;
+        }
+      
+        
      }
 
      @media (max-width: 909px) {
         .description{
             margin: 2%;
         }
+        
      }
 }
