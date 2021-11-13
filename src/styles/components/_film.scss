@@ -29,9 +29,11 @@
         
         
         
-        img{
+        .film img{
+            
             width: 200px;
             height: 300px;
+            
             border-radius:10px ;
         }
     
@@ -62,6 +64,7 @@
         background-color: $color-6;
         border: none;
         cursor: pointer;
+        margin: 5px;
     }
 
 }

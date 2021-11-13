@@ -64,7 +64,7 @@
             
         }
         .actors{
-            border: 2px #ffff00 solid;
+            border: none;
             flex-wrap: wrap;
             display: flex;
             
@@ -77,7 +77,7 @@
             
             height: 100%;
             width: 200px;
-            border: 2px red solid;
+            border: none;
         }
         .otherMovies{
             display: block;

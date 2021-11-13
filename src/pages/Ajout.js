@@ -3,6 +3,8 @@ import Logo from '../components/Logo';
 import Add from '../components/MoviesAdd';
 import Navigation from '../components/Navigation';
 
+// Page d'ajout
+
 const Ajout = () => {
     return (
             

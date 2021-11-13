@@ -25,8 +25,7 @@ const Films = () => {
 
                 {Object.keys(data).map((key) => {
                     return <div className="film"><p>{data[key].title}</p> <img src={data[key].poster} ></img> <br />
-                        <NavLink exact to={`movie/${data[key].id}`}>
-                            <Button className="boutton">Plus...</Button></NavLink><MoviesDel className="boutton" id={data[key].id} setData={setData} /></div>
+                        <NavLink exact to={`movie/${data[key].id}`}><Button className="boutton">Plus...</Button></NavLink><MoviesDel className="boutton" id={data[key].id} setData={setData} /></div>
                 })}
 
 

@@ -7,17 +7,17 @@ import Movies from './Movies';
 const Add = () => {
 
     const [inputValue, setValue] = useState('');
-    const [selectedValue, setSelectedValue] = useState(null);
+    const [selectedValue, setSelectedValue] = useState('');
 
 
-    const  handleInputChange = value => {
+    const handleInputChange = value => {
         setValue(value);
-      }
-  
-      const handleChange = value =>{
+    }
+
+    const handleChange = value => {
         setSelectedValue(value);
-      }
-    // stock les donnÃ©es des recettes dans un format objet pour que axios les envoie a l api
+    }
+    // stock les donnÃ©es des films dans un format objet pour que axios les envoie a l api
     const [data, setData] = useState({
         title: "",
         release_date: "",
@@ -65,14 +65,14 @@ const Add = () => {
     const AddMovie = () => {
 
         axios.post('http://localhost:3000/movies', {
-            title: data.title,
+            title: selectedValue.title,
             release_date: data.release_date,
             description: data.description,
             categories: data.categories,
             // poster: 'https://images-na.ssl-images-amazon.com/images/I/71aH-U9+EfL.png',
             poster: data.poster,
             actors: data.actors,
-            similar_movies: data.similar_movies
+            similar_movies: data.similar_movies,
         })
 
         console.log(data);
@@ -80,23 +80,22 @@ const Add = () => {
 
     const search = async (inputValue) => {
         try {
-          const response = await Movies.search(inputValue);
-          return response.data.results;
+            const response = await Movies.search(inputValue);
+            return response.data.results;
         } catch (e) {
-          console.log(e);
+            console.log(e);
         }
-      }
-
+    }
+    console.log(selectedValue);
+    console.log(selectedValue.title, selectedValue.overview);
 
     return (
         <div className="add">
-          <br></br>
+            <br></br>
 
 
             <form>
                 <div className="form-group">
-                    <label for="exampleFormControlInput1">Nom du film</label>
-                    <input list="navigateurs" id="monNavigateur" name="title" value={data.title} onChange={ChangeAdd} ></input>
                     <AsyncSelect
                         cacheOptions
                         defaultOptions
@@ -106,13 +105,17 @@ const Add = () => {
                         loadOptions={search}
                         onInputChange={handleInputChange}
                         onChange={handleChange}
-                   />
+                    />
 
+
+                    <hr></hr>
+                    <label for="exampleFormControlInput1">Nom du film</label>
+                    <input id="monNavigateur" name="title" value={data.title||selectedValue.title} onChange={ChangeAdd} ></input>
                     {/* <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="nom du film" name="title" value={data.title} onChange={ChangeAdd}></input> */}
                     <br></br>
 
                     <label for="exampleFormControlInput1">Image du fim(url)</label>
-                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="https//image.jpg" name="poster" value={data.poster} onChange={ChangeAdd}></input><br></br>
+                    <input type='text' class="form-control"  id="exampleFormControlInput1" placeholder="https//image.jpg" name="poster" value={data.poster||selectedValue.poster_path} onChange={ChangeAdd}></input><br></br>
 
 
                 </div>
@@ -121,13 +124,13 @@ const Add = () => {
 
                 <div><br></br>
                     <label for="exampleFormControlInput1">Description</label>
-                    <textarea type="text" class="form-control" id="exampleFormControlInput1" placeholder="description du film" name="description" value={data.description} onChange={ChangeAdd}></textarea>
+                    <textarea type="text" class="form-control" id="exampleFormControlInput1" placeholder="description du film" name="description" value={data.description=selectedValue.overview} onChange={ChangeAdd}></textarea>
                 </div>
 
                 <div>
                     <label for="start">Date de sortie :</label>
 
-                    <input type="date" id="start" name="release_date" value={data.release_date} min="2018-01-01" max="2022-12-31" onChange={ChangeAdd} ></input>
+                    <input type="date" id="start" name="release_date" value={data.release_date=selectedValue.release_date} min="2018-01-01" max="2022-12-31" onChange={ChangeAdd} ></input>
                 </div>
 
                 <div class="form-group">

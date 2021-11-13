@@ -41,7 +41,7 @@ function Boutton() {
                         <h1>{data.title} <br></br> </h1>
 
                         <div className="image-container">
-                            <div ><img alt="" id="cardImg" style={{ width: '70%' }} src={data.poster}></img></div>
+                            <div ><img alt="" id="cardImg" style={{ width: '30%' }} src={data.poster}></img></div>
                             <div>
                                 
 
@@ -58,7 +58,7 @@ function Boutton() {
 
                            
 
-                            <div className="description">
+                            <div className="description"><br></br>
                                 <p>{data.description.replace(/(<([^>]+)>)/gi, "")}</p>
                                 
                                 <div className="actors">
