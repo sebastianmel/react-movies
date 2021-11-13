@@ -58,12 +58,15 @@ function Boutton() {
                            
 
                             <div className="description">
-
                                 <p>{data.description.replace(/(<([^>]+)>)/gi, "")}</p>
-
+                                
+                                <div className="actors">
                                 {data.actors.map((key)=>{
-                                    return <div className="actors"><img src={key.photo} style={{ width: '55%', height:'50%' }}></img><br></br><p>{key.name+"/"} {key.character}</p> </div>;
+                                    return <div className="actor"><img src={key.photo} style={{ width: '55%', height:'50%' }}></img><br></br><p>{key.name+"/"} {key.character}</p> </div>;
                                 })}
+                                
+                                </div>
+                                
                                 
                             </div>
                             <h2>Films similaires :</h2>

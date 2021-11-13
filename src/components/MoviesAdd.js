@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import axios from "axios";
 
-
 const Add = () => {
     // stock les données des recettes dans un format objet pour que axios les envoie a l api
     const [data, setData] = useState({
@@ -11,7 +10,8 @@ const Add = () => {
         description: "",
         actors: [],
         similar_movies: [],
-        poster: 'https://ridzeal.com/wp-content/uploads/2021/08/summer-movies-2021-new-e1620919489437-1536x1167.jpg',
+        // poster: 'https://ridzeal.com/wp-content/uploads/2021/08/summer-movies-2021-new-e1620919489437-1536x1167.jpg',
+        poster: ""
 
     });
     // ChangeAdd met a jour les valeurs des input
@@ -25,68 +25,45 @@ const Add = () => {
 
             ...prevState,
             [name]: value
-            
+
 
 
 
         }));
-         
 
-       
+
+
 
     }
 
     const Changecategorie = (e) => {
         // console.log(e.target.value);
 
-        
+
         const value = e.target.value;
 
-        
-        if ( data.categories.includes(value) ){
+
+        if (data.categories.includes(value)) {
             setData(prevState => ({
-              ...prevState,
+                ...prevState,
 
-              categories: data.categories.filter(e=>e !== value)
-          }));
-          }
-          else{
+                categories: data.categories.filter(e => e !== value)
+            }));
+        }
+        else {
             setData(prevState => ({
-              ...prevState,
-              categories: [...prevState.categories, value ]
-          }));
-          }
-
-        
+                ...prevState,
+                categories: [...prevState.categories, value]
+            }));
+        }
 
 
 
 
-    }   
 
 
-    // const Changeactors = (e) => {
-        
-
-        
-    //     const value = e.target.value;
-
-        
-    //     if ( data.categories.includes(value) ){
-    //         setData(prevState => ({
-    //           ...prevState,
-
-    //           categories: data.categories.filter(e=>e !== value)
-    //       }));
-    //       }
-    //       else{
-    //         setData(prevState => ({
-    //           ...prevState,
-    //           categories: [...prevState.categories, value ]
-    //       }));
-    //       }
-
-    // }
+    }
+ 
 
     console.log(data);
 
@@ -97,7 +74,8 @@ const Add = () => {
             release_date: data.release_date,
             description: data.description,
             categories: data.categories,
-            poster: 'https://images-na.ssl-images-amazon.com/images/I/71aH-U9+EfL.png',
+            // poster: 'https://images-na.ssl-images-amazon.com/images/I/71aH-U9+EfL.png',
+            poster: data.poster,
             actors: data.actors,
             similar_movies: data.similar_movies
 
@@ -112,6 +90,11 @@ const Add = () => {
     }
 
 
+    
+        
+    
+    
+   
 
 
 
@@ -127,11 +110,26 @@ const Add = () => {
             <form>
                 <div className="form-group">
                     <label for="exampleFormControlInput1">Nom du film</label>
-                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="nom du film" name="title" value={data.title} onChange={ChangeAdd}></input><br></br>
+                    <input list="navigateurs" id="monNavigateur" name="title" value={data.title} onChange={ChangeAdd} ></input>
+                    <datalist id="navigateurs">
+                        <option value="Chrome"></option>
+                        <option value="Firefox"></option>
+                        <option value="Internet Explorer"></option>
+                        <option value="Opera"></option>
+                        <option value="Safari"></option>
+                        <option value="Microsoft Edge"></option>
+                    </datalist>
+
+                    {/* <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="nom du film" name="title" value={data.title} onChange={ChangeAdd}></input> */}
+                    <br></br>
+
+                    <label for="exampleFormControlInput1">Image du fim(url)</label>
+                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="https//image.jpg" name="poster" value={data.poster} onChange={ChangeAdd}></input><br></br>
 
 
                 </div>
 
+               
 
                 <div><br></br>
                     <label for="exampleFormControlInput1">Description</label>
@@ -145,13 +143,7 @@ const Add = () => {
                 </div>
 
                 <div class="form-group">
-                    {/* <label for="exampleFormControlSelect2">Categories du films</label>
-                    <select class="form-control form-control-sm" onChange={ChangeAdd} name="categories" value={data.categories}>
-                        <option selected ></option>
-                        <option selected value="Action">Action</option>
-                        <option>Aventure</option>
-                        <option>Science-Fiction</option>
-                    </select> */}
+                    
 
 
                     <label for="exampleFormControlSelect2">Categories du films</label> <br></br>
@@ -176,7 +168,7 @@ const Add = () => {
 
 
                 <button type="button" class="btn btn-outline-success" onClick={AddMovie} >Ajouter</button>
-                
+
 
 
             </form>
