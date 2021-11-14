@@ -6,6 +6,7 @@ import Ajout from "./pages/Ajout";
 import Home from "./pages/Home";
 import NotFound from "./pages/NotFound";
 import Boutton  from  "./components/Boutton";
+import BouttonEdit from "./components/BouttonEdit";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path="/a-propos" exact component={About}/>
           <Route path="/add-movies" exact component={Ajout}/>
           <Route path="/movie/:id" component={Boutton}/>
+          <Route path="/edit/:id" component={BouttonEdit}/>
           <Route component={NotFound}/>
         </Switch>
       </BrowserRouter>

@@ -3,6 +3,10 @@ import { useParams } from 'react-router-dom';
 import axios from "axios";
 import Navigation from "./Navigation";
 import Logo from "./Logo";
+import { NavLink } from 'react-router-dom';
+
+import { Button } from 'react-bootstrap';
+import BouttonEdit from "./BouttonEdit";
 
 
 
@@ -31,11 +35,12 @@ function Boutton() {
         <div className="boutton">
             <Logo/>
             <Navigation />
+           
 
             {data &&
                 <div className="container">
 
-
+                <NavLink exact to={`/edit/${data.id}`}><Button className="boutton">Modifier</Button></NavLink>
                     <div className="off">
 
                         <h1>{data.title} <br></br> </h1>
@@ -45,10 +50,14 @@ function Boutton() {
                             <div>
                                 
 
-                                <p>infos : 
+                                <p>Sortie le : <br></br>
                                     
-                                    {data.release_date}
-                                    {data.categories.map((key)=>{
+                                    {data.release_date}<br></br>
+                                    
+                                    
+                                </p>
+                                <p>Genre : 
+                                {data.categories.map((key)=>{
                                     return <p>{key}</p> ;
                                 })}
                                 </p>

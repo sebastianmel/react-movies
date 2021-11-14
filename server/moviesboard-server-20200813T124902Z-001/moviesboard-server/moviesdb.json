@@ -76,19 +76,6 @@
       "id": 8
     },
     {
-      "title": "Karel, Me and You",
-      "release_date": "2019-11-14",
-      "description": "",
-      "categories": [
-        "Aventure",
-        "Science-Fiction"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w342/xGj7tEu2mKKUFCk4Jj9AFebBtYI.jpg",
-      "actors": [],
-      "similar_movies": [],
-      "id": 11
-    },
-    {
       "title": "World War Z",
       "release_date": "2013-06-20",
       "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
@@ -101,18 +88,6 @@
       "actors": [],
       "similar_movies": [],
       "id": 12
-    },
-    {
-      "title": "Karel, Me and You",
-      "release_date": "2019-11-14",
-      "description": "",
-      "categories": [
-        "Aventure"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w342/xGj7tEu2mKKUFCk4Jj9AFebBtYI.jpg",
-      "actors": [],
-      "similar_movies": [],
-      "id": 13
     },
     {
       "title": "Karel, Me and You",
@@ -139,18 +114,6 @@
       "id": 15
     },
     {
-      "title": "Love on the Vines",
-      "release_date": "2017-01-07",
-      "description": "When overworked lawyer Diana’s (Margo Harshman) uncle, Hugh, passes away she’s called back to his vineyard to settle his estate. Hugh has left half of his Golden Range Winery &amp; Vineyard to Diana and half to Seth (Steve Talley), his right hand man and Diana’s ex-boyfriend. Hugh’s final request is that the two work the next harvest together, set to begin in a few weeks. Neither is happy at the arrangement but they begrudgingly agree. Furthermore, neighboring competitor Grant Garritson (Jack Wagner) threatens to drive a wedge into Diana and Seth’s already shaky relationship. They have a short window to figure it all out so that they both get what they ultimately want.",
-      "categories": [
-        "Aventure"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w342/wOnyzDck0ydwbwFFolq4dyhbG8i.jpg",
-      "actors": [],
-      "similar_movies": [],
-      "id": 16
-    },
-    {
       "title": "R.I.P.D.",
       "release_date": "2013-07-18",
       "description": "A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him. Based on the comic by Peter M. Lenkov.",
@@ -161,6 +124,80 @@
       "actors": [],
       "similar_movies": [],
       "id": 17
+    },
+    {
+      "title": "Ty",
+      "release_date": "2020-11-20",
+      "description": "Set against an expansive southern Utah landscape in 1998, Ty reveals the very moment a 12 year old boy decides to plunge into manhood by defying the only society he has ever known, experiencing a glimpse of the “real world” for the first time.",
+      "categories": [
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/eGjTReueaNMCAhhDuZO2L2DcKW1.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 18
+    },
+    {
+      "title": "Total Recall",
+      "release_date": "2012-08-02",
+      "description": "Welcome to Rekall, the company that can turn your dreams into real memories. For a factory worker named Douglas Quaid, even though he's got a beautiful wife who he loves, the mind-trip sounds like the perfect vacation from his frustrating life - real memories of life as a super-spy might be just what he needs. But when the procedure goes horribly wrong, Quaid becomes a hunted man. Finding himself on the run from the police - controlled by Chancellor Cohaagen, the leader of the free world - Quaid teams up with a rebel fighter to find the head of the underground resistance and stop Cohaagen. The line between fantasy and reality gets blurred and the fate of his world hangs in the balance as Quaid discovers his true identity, his true love, and his true fate.",
+      "categories": [
+        "Science-Fiction",
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/fucmGeZYM4yzqJUnDTc4pKQNCej.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 19
+    },
+    {
+      "title": "A Millionaire's First Love",
+      "release_date": "2006-02-09",
+      "description": "\"A Millionaire's First Love\" focuses on Kang Jae-Kyung's struggle with a clause in his grandfather's will that says he will only get his inheritance if he graduates from a high school in the country. Relocated into the mountains, he finds puppy love with a naive country girl. Can love change the spoiled urbanite and awaken his gentler side?",
+      "categories": [
+        "Action"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/o9swBSiEFgzt41YSc2WOSHMSliu.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 20
+    },
+    {
+      "title": "Need for Speed",
+      "release_date": "2014-03-12",
+      "description": "The film revolves around a local street-racer who partners with a rich and arrogant business associate, only to find himself framed by his colleague and sent to prison. After he gets out, he joins a New York-to-Los Angeles race to get revenge. But when the ex-partner learns of the scheme, he puts a massive bounty on the racer's head, forcing him to run a cross-country gauntlet of illegal racers in all manner of supercharged vehicles.",
+      "categories": [
+        "Action"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/z42kyMizgDKetejusZgucSQsQ4l.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 21
+    },
+    {
+      "title": "Mulan",
+      "release_date": "2020-09-04",
+      "description": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+      "categories": [
+        "Action",
+        "Comédie"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 22
+    },
+    {
+      "title": "Les Nouvelles aventures des Tortues Ninja L'enfer est dans la rue",
+      "release_date": "1987-01-01",
+      "description": "",
+      "categories": [
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/jUAU75ZASa16icqM6SiHNSxxsGL.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 23
     }
   ]
 }
