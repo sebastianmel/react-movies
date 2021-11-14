@@ -115,7 +115,7 @@ const Add = () => {
                     <br></br>
 
                     <label for="exampleFormControlInput1">Image du fim(url)</label>
-                    <input type='text' class="form-control"  id="exampleFormControlInput1" placeholder="https//image.jpg" name="poster" value={data.poster||selectedValue.poster_path} onChange={ChangeAdd}></input><br></br>
+                    <input type='text' class="form-control"  id="exampleFormControlInput1" placeholder="https//image.jpg" name="poster" value={data.poster="https://image.tmdb.org/p/w342"+selectedValue.poster_path} onChange={ChangeAdd}></input><br></br>
 
 
                 </div>

@@ -76,79 +76,40 @@
       "id": 8
     },
     {
-      "title": "Ty",
-      "release_date": "2021-11-10",
-      "description": "",
+      "title": "Ze Film",
+      "release_date": "2005-02-23",
+      "description": "A poor kid nicknamed Kubrick loves movies and dreams about being an award winning director. One day, he stumbles upon a movie shoot, gets confused with a real movie maker and takes the equipment he needs to shoot his movie.",
       "categories": [
-        "Aventure",
         "Science-Fiction"
       ],
-      "poster": "https://h5ckfun.info/wp-content/uploads/2018/05/68747470733a2f2f687a7765622e68692d72657a67616d652e6e65742f70616c6164696e732d7765622f77702d636f6e74656e742f75706c6f6164732f323031362f30392f4f4233345f426c6f675f507265737352656c656173652e6a7067.jpg",
+      "poster": "https://image.tmdb.org/p/w342/AsZqM45UKpXZtoa4RONJo38kg7f.jpg",
       "actors": [],
       "similar_movies": [],
       "id": 9
     },
     {
-      "title": "Ty",
-      "release_date": "2021-11-10",
-      "description": "",
+      "title": "Foe",
+      "release_date": "2016-02-01",
+      "description": "A man who recovers ancient languages uncovers more than he expected when taking on a new client.",
       "categories": [
-        "Aventure",
-        "Science-Fiction"
+        "Aventure"
       ],
-      "poster": "https://h5ckfun.info/wp-content/uploads/2018/05/68747470733a2f2f687a7765622e68692d72657a67616d652e6e65742f70616c6164696e732d7765622f77702d636f6e74656e742f75706c6f6164732f323031362f30392f4f4233345f426c6f675f507265737352656c656173652e6a7067.jpg",
+      "poster": "https://image.tmdb.org/p/w342/yKswkZKtXbaC0Buj1czRAFYPBxh.jpg",
       "actors": [],
       "similar_movies": [],
       "id": 10
     },
     {
-      "title": "Yu-Gi-Oh! The Movie",
-      "release_date": "2021-11-10",
-      "description": "ty",
+      "title": "Alexander",
+      "release_date": "2004-11-21",
+      "description": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.",
       "categories": [
         "Aventure"
       ],
-      "poster": "https://support-leagueoflegends.riotgames.com/hc/article_attachments/4406813626643/Worlds_JarvanIV_PS.jpg",
+      "poster": "https://image.tmdb.org/p/w342/faVET7EulRCnYRwi65jnHqR2di8.jpg",
       "actors": [],
       "similar_movies": [],
-      "id": 17
-    },
-    {
-      "title": "Monsters, Inc.",
-      "release_date": "2021-11-13",
-      "description": "",
-      "categories": [
-        "Science-Fiction"
-      ],
-      "poster": "https://static1.millenium.org/articles/7/38/16/77/@/1524839-nasus-lol-classic-orig-1-article_m-1.jpg",
-      "actors": [],
-      "similar_movies": [],
-      "id": 18
-    },
-    {
-      "title": "Monsters, Inc.",
-      "release_date": "2021-11-13",
-      "description": "",
-      "categories": [
-        "Science-Fiction"
-      ],
-      "poster": "https://static1.millenium.org/articles/7/38/16/77/@/1524839-nasus-lol-classic-orig-1-article_m-1.jpg",
-      "actors": [],
-      "similar_movies": [],
-      "id": 19
-    },
-    {
-      "title": "T.R. Baskin",
-      "release_date": "2021-11-05",
-      "description": "Enthusiastic young woman runs away to Chicago to start a new life. She is soon confronted with the emotional coldness of the big city and has to search for her place in the scheme of things.",
-      "categories": [
-        "Science-Fiction",
-        "Aventure"
-      ],
-      "poster": "https://static1.millenium.org/articles/7/38/16/77/@/1524839-nasus-lol-classic-orig-1-article_m-1.jpg",
-      "actors": [],
-      "similar_movies": [],
-      "id": 20
+      "id": 11
     }
   ]
 }
