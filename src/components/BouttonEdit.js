@@ -51,7 +51,8 @@ function BouttonEdit() {
         actors: [],
         similar_movies: [],
         // poster: 'https://ridzeal.com/wp-content/uploads/2021/08/summer-movies-2021-new-e1620919489437-1536x1167.jpg',
-        poster: ""
+        poster: "",
+        
 
     });
     // ChangeAdd met a jour les valeurs des input
@@ -86,8 +87,9 @@ function BouttonEdit() {
  
 
     const EditMovie = () => {
+        let { id } = useParams();
 
-        axios.put('http://localhost:3000/movies', {
+        axios.put('http://localhost:3000/movies/edit/'+ id, {
             title: selectedValue.title,
             release_date: dataEdit.release_date,
             description: dataEdit.description,
