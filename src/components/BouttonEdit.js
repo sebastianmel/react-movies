@@ -87,7 +87,7 @@ function BouttonEdit() {
 
     const EditMovie = () => {
 
-        axios.post('http://localhost:3000/movies', {
+        axios.put('http://localhost:3000/movies', {
             title: selectedValue.title,
             release_date: dataEdit.release_date,
             description: dataEdit.description,
@@ -137,8 +137,11 @@ function BouttonEdit() {
                         
                        <div className="formulaire">
                         <form>
-                <div className="form-group">
+                <div className="">Formulaire de modification : <br></br>
+            <input id="monNavigateur" name="title" value={data.title=selectedValue.title} onChange={ChangeAdd} ></input> 
+                    
                 <label for="exampleFormControlInput1">Nom du film :</label><br></br>
+                
                     <AsyncSelect
                         cacheOptions
                         defaultOptions
