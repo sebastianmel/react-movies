@@ -76,40 +76,91 @@
       "id": 8
     },
     {
-      "title": "Ze Film",
-      "release_date": "2005-02-23",
-      "description": "A poor kid nicknamed Kubrick loves movies and dreams about being an award winning director. One day, he stumbles upon a movie shoot, gets confused with a real movie maker and takes the equipment he needs to shoot his movie.",
+      "title": "Karel, Me and You",
+      "release_date": "2019-11-14",
+      "description": "",
       "categories": [
+        "Aventure",
         "Science-Fiction"
       ],
-      "poster": "https://image.tmdb.org/p/w342/AsZqM45UKpXZtoa4RONJo38kg7f.jpg",
-      "actors": [],
-      "similar_movies": [],
-      "id": 9
-    },
-    {
-      "title": "Foe",
-      "release_date": "2016-02-01",
-      "description": "A man who recovers ancient languages uncovers more than he expected when taking on a new client.",
-      "categories": [
-        "Aventure"
-      ],
-      "poster": "https://image.tmdb.org/p/w342/yKswkZKtXbaC0Buj1czRAFYPBxh.jpg",
-      "actors": [],
-      "similar_movies": [],
-      "id": 10
-    },
-    {
-      "title": "Alexander",
-      "release_date": "2004-11-21",
-      "description": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.",
-      "categories": [
-        "Aventure"
-      ],
-      "poster": "https://image.tmdb.org/p/w342/faVET7EulRCnYRwi65jnHqR2di8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/xGj7tEu2mKKUFCk4Jj9AFebBtYI.jpg",
       "actors": [],
       "similar_movies": [],
       "id": 11
+    },
+    {
+      "title": "World War Z",
+      "release_date": "2013-06-20",
+      "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+      "categories": [
+        "Science-Fiction",
+        "Aventure",
+        "Action"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 12
+    },
+    {
+      "title": "Karel, Me and You",
+      "release_date": "2019-11-14",
+      "description": "",
+      "categories": [
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/xGj7tEu2mKKUFCk4Jj9AFebBtYI.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 13
+    },
+    {
+      "title": "Karel, Me and You",
+      "release_date": "2019-11-14",
+      "description": "",
+      "categories": [
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/xGj7tEu2mKKUFCk4Jj9AFebBtYI.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 14
+    },
+    {
+      "title": "Love on the Vines",
+      "release_date": "2017-01-07",
+      "description": "When overworked lawyer Diana’s (Margo Harshman) uncle, Hugh, passes away she’s called back to his vineyard to settle his estate. Hugh has left half of his Golden Range Winery &amp; Vineyard to Diana and half to Seth (Steve Talley), his right hand man and Diana’s ex-boyfriend. Hugh’s final request is that the two work the next harvest together, set to begin in a few weeks. Neither is happy at the arrangement but they begrudgingly agree. Furthermore, neighboring competitor Grant Garritson (Jack Wagner) threatens to drive a wedge into Diana and Seth’s already shaky relationship. They have a short window to figure it all out so that they both get what they ultimately want.",
+      "categories": [
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/wOnyzDck0ydwbwFFolq4dyhbG8i.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 15
+    },
+    {
+      "title": "Love on the Vines",
+      "release_date": "2017-01-07",
+      "description": "When overworked lawyer Diana’s (Margo Harshman) uncle, Hugh, passes away she’s called back to his vineyard to settle his estate. Hugh has left half of his Golden Range Winery &amp; Vineyard to Diana and half to Seth (Steve Talley), his right hand man and Diana’s ex-boyfriend. Hugh’s final request is that the two work the next harvest together, set to begin in a few weeks. Neither is happy at the arrangement but they begrudgingly agree. Furthermore, neighboring competitor Grant Garritson (Jack Wagner) threatens to drive a wedge into Diana and Seth’s already shaky relationship. They have a short window to figure it all out so that they both get what they ultimately want.",
+      "categories": [
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/wOnyzDck0ydwbwFFolq4dyhbG8i.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 16
+    },
+    {
+      "title": "R.I.P.D.",
+      "release_date": "2013-07-18",
+      "description": "A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him. Based on the comic by Peter M. Lenkov.",
+      "categories": [
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/fQ7CI5zmmhZlHuYBFKgK9w4hwlS.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 17
     }
   ]
 }
