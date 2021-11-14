@@ -87,9 +87,10 @@ function BouttonEdit() {
  
 
     const EditMovie = () => {
-        let { id } = useParams();
+        const eventSet = useParams()
+        const id = eventSet.id
 
-        axios.put('http://localhost:3000/movies/edit/'+ id, {
+        axios.put('http://localhost:3000/movies/'+id, {
             title: selectedValue.title,
             release_date: dataEdit.release_date,
             description: dataEdit.description,
