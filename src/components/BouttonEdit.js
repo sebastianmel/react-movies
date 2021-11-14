@@ -87,8 +87,7 @@ function BouttonEdit() {
  
 
     const EditMovie = () => {
-        const eventSet = useParams()
-        const id = eventSet.id
+        
 
         axios.put('http://localhost:3000/movies/'+id, {
             title: selectedValue.title,
@@ -133,7 +132,7 @@ function BouttonEdit() {
                                 <p>{data.title} </p>
                                 <img alt="" id="cardImg" style={{ width: '10%' }} src={data.poster}></img></div>
                             <p>Sortie le : {data.release_date}<br></br> </p>
-                            <p>Genre :{data.categories.map((key) => { return <p>{key}</p>; })}</p>
+                            Genre :{data.categories.map((key) => { return <p>{key}</p>; })}
                             <p>{data.description.replace(/(<([^>]+)>)/gi, "")}</p>
                             {/* {data.actors.map((key) => { return <div className="actor"><img src={key.photo} ></img><br></br><p>{key.name + "/"} {key.character}</p> </div>; })} */}
                         </div>
@@ -141,8 +140,6 @@ function BouttonEdit() {
                        <div className="formulaire">
                         <form>
                 <div className="">Formulaire de modification : <br></br>
-            <input id="monNavigateur" name="title" value={data.title=selectedValue.title} onChange={ChangeAdd} ></input> 
-                    
                 <label for="exampleFormControlInput1">Nom du film :</label><br></br>
                 
                     <AsyncSelect
@@ -161,9 +158,11 @@ function BouttonEdit() {
                     {/* <label for="exampleFormControlInput1">Nom du film</label>
                     <input id="monNavigateur" name="title" value={data.title||selectedValue.title} onChange={ChangeAdd} ></input> */}
                     
+                  
+                    <br></br>
                    
 
-                    <label for="exampleFormControlInput1">Image du fim(url) : </label>
+                    <label for="exampleFormControlInput1">Image du fim(url) : </label><br></br>
                     <input type='text' class="form-control"  id="exampleFormControlInput1" placeholder="https//image.jpg" name="poster" value={dataEdit.poster="https://image.tmdb.org/t/p/w342"+selectedValue.poster_path} onChange={ChangeAdd}></input><br></br>
 
 
@@ -177,10 +176,10 @@ function BouttonEdit() {
                 </div>
 
                 <div>
-                    <label for="start">Date de sortie :</label>
+                    <label for="start">Date de sortie :</label><br></br>
 
                     <input type="date" id="start" name="release_date" value={dataEdit.release_date=selectedValue.release_date} min="2018-01-01" max="2022-12-31" onChange={ChangeAdd} ></input>
-                </div>
+                </div><br></br>
 
                 <div class="form-group">
 
