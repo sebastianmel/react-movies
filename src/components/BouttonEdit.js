@@ -96,7 +96,7 @@ function BouttonEdit() {
             categories: data.categories,
             // poster: 'https://images-na.ssl-images-amazon.com/images/I/71aH-U9+EfL.png',
             poster: dataEdit.poster,
-            actors: dataEdit.actors,
+            actors: data.actors,
             similar_movies: dataEdit.similar_movies,
         })
 

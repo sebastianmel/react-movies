@@ -28,6 +28,7 @@ function Boutton() {
                 'http://localhost:3000/movies/' + id
             )
             .then((res) => setData(res.data));
+      
     }, []);
 
     return (

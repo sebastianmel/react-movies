@@ -12,9 +12,49 @@ const Add = () => {
 
     const handleInputChange = value => {
         setValue(value);
+        // console.log(value);
     }
 
     const handleChange = value => {
+
+        let one =
+        `https://api.themoviedb.org/3/movie/${value.id}/similar?api_key=32ce1364a5dbb3e2ec81dba08a7f228f`;
+        let two =
+        `https://api.themoviedb.org/3/movie/${value.id}/credits?api_key=32ce1364a5dbb3e2ec81dba08a7f228f`;
+     
+      
+      const requestOne = axios.get(one);
+      const requestTwo = axios.get(two);
+      
+      
+      axios
+        .all([requestOne , requestTwo])
+        .then(
+          axios.spread((...responses) => {
+            const similar_movies = responses[0].data.results.map(movie =>({
+                title : movie.title,
+                poster  : (typeof movie.profile_path === null) ? "https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png" :  "https://image.tmdb.org/t/p/w342"+movie.poster_path,
+                release_date : movie.release_date
+                
+            })).slice(0, 3);
+            const actors = responses[1].data.cast.map(act =>({
+                photo :  (typeof act.profile_path === null) ? "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg" : "https://image.tmdb.org/t/p/w342"+act.profile_path,
+                character : act.character,
+                name: act.original_name,
+
+            })).slice(0, 6);
+         
+      
+            // use/access the results
+            setData(prevState => ({
+                ...prevState,
+                actors ,
+                similar_movies
+
+            }));
+          })
+        )
+
         setSelectedValue(value);
     }
     // stock les donnÃ©es des films dans un format objet pour que axios les envoie a l api
@@ -60,10 +100,9 @@ const Add = () => {
     }
 
 
-    console.log(data);
+   
 
     const AddMovie = () => {
-
         axios.post('http://localhost:3000/movies', {
             title: selectedValue.title,
             release_date: data.release_date,
@@ -74,20 +113,24 @@ const Add = () => {
             actors: data.actors,
             similar_movies: data.similar_movies,
         })
-
+        
         console.log(data);
     }
+    
+
+
+
 
     const search = async (inputValue) => {
         try {
             const response = await Movies.search(inputValue);
             return response.data.results;
         } catch (e) {
-            console.log(e);
+            // console.log(e);
         }
     }
-    console.log(selectedValue);
-    console.log(selectedValue.title);
+    // console.log(selectedValue);
+    
 
     return (
         <div className="add">
@@ -107,6 +150,8 @@ const Add = () => {
                         onInputChange={handleInputChange}
                         onChange={handleChange}
                     />
+                    
+
 
 
                     <hr></hr>

@@ -32,14 +32,15 @@
         margin: 100px;
         padding: auto;
         text-align: center;
-        display: flex;
+        
+        display: block;
         background-color: gainsboro;
         border-radius: 15px;
     }
     .actors{
         padding-top: 2% ;
         border: none;
-        width: 45%;
+        // width: 45%;
         
         height: 100%;
         display: flex;

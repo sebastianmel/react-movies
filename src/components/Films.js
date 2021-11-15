@@ -12,7 +12,7 @@ const Films = () => {
     useEffect(() => {
         axios
             .get('http://localhost:3000/movies')
-            .then((res) => setData(res.data));
+            .then((res) => setData(res.data.reverse()));
 
 
     }, []);
