@@ -5,6 +5,7 @@ import MoviesDel from './MoviesDel'
 import { Button } from 'react-bootstrap';
 
 
+
 const Films = () => {
     const [data, setData] = useState('');
 
@@ -20,6 +21,12 @@ const Films = () => {
     console.log(data);
     return (
         <div className="films">
+            <form className="filterBar">
+
+                <input className="filterinput" type="text"  ></input>
+                &#160; &#160;
+                <Button className="filterButton" type="submit" variant="outline-secondary">Recherche</Button>
+            </form><br></br>
             <div className="films-list">
 
 

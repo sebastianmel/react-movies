@@ -1,7 +1,6 @@
 .films{
     
     border: none;
-    // display: flex;
     margin: auto ;
     width: 70%;
 
@@ -15,15 +14,12 @@
         border-radius: 10px;
         opacity: 80%;
         
-        // background-repeat: no-repeat;
-        // background-position:top;
-        // background-attachment: fixed;
+        
         
     
         
         display: flex;
         flex-wrap: wrap;
-        // flex-flow: row wrap;
         justify-content: space-around;
         
         
@@ -66,5 +62,49 @@
         cursor: pointer;
         margin: 5px;
     }
+    form{
+        
+        text-align: center;
+        
+    }
+    .filterinput{
+            width: 30%;
+            height: 30px;
+            border-radius: 15px;
+            border: none;
+    }
 
+    .filterButton{
+        background-color: black;
+        color: white;
+        border: 1px lightgray solid;
+        padding: 5px;
+        transition: 1.5s;
+    }
+    .filterButton:hover{
+        background-color: #D02013;
+        color: white;
+        border: 0px lightgray solid;
+        padding: 5px;
+        transition: 0.4s;
+        border-radius: 15px;
+    }
+
+    @media (max-width: 1326px) {
+        .filterinput{
+            width: 40%;
+            height: 30px;
+            border-radius: 15px;
+            border: none;
+    }
+    }
+        @media (max-width: 909px) {
+            .filterinput{
+                width: 60%;
+                height: 30px;
+                border-radius: 15px;
+                border: none;
+        }
+        }   
 }
+ 
