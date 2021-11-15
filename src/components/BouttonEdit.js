@@ -93,7 +93,7 @@ function BouttonEdit() {
             title: selectedValue.title,
             release_date: dataEdit.release_date,
             description: dataEdit.description,
-            categories: dataEdit.categories,
+            categories: data.categories,
             // poster: 'https://images-na.ssl-images-amazon.com/images/I/71aH-U9+EfL.png',
             poster: dataEdit.poster,
             actors: dataEdit.actors,

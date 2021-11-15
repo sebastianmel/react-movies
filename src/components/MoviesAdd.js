@@ -125,7 +125,7 @@ const Add = () => {
 
                 <div><br></br>
                     <label for="exampleFormControlInput1">Description :</label><br></br>
-                    <textarea  rows="5" cols="33" type="text" class="form-control" id="exampleFormControlInput1" placeholder="description du film" name="description" value={data.description=selectedValue.overview} onChange={ChangeAdd}></textarea>
+                    <textarea  rows="5" cols="20" type="text" class="form-control" id="exampleFormControlInput1" placeholder="description du film" name="description" value={data.description=selectedValue.overview} onChange={ChangeAdd}></textarea>
                 </div>
 
                 <div>

@@ -63,37 +63,37 @@
       "id": 1
     },
     {
-      "title": "Cars",
-      "release_date": "2006-06-08",
-      "description": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
+      "title": "That Life Makes Sense",
+      "release_date": "2001-04-20",
+      "description": "",
       "categories": [],
-      "poster": "https://image.tmdb.org/t/p/w342/qa6HCwP4Z15l3hpsASz3auugEW6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/3COd2Q9YECKKVjJ1OwBaEXXgVDT.jpg",
       "actors": [],
       "similar_movies": [],
       "id": 8
     },
     {
-      "title": "World War Z",
-      "release_date": "2013-06-20",
-      "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+      "title": "Mobile Suit SD Gundam Mk I",
+      "release_date": "1988-05-12",
+      "description": "A collection of short parodies of the Mobile Suit Gundam saga. Episode 1 pokes fun at key events that occurred during the One Year War. In episode 2, Amuro, Kamille and Judau fight over who runs the better pension when Char comes in to crash their party. Episode 3 is the SD Olympics, an array of athletic events pitting man with mobile suit.",
       "categories": [
         "Science-Fiction",
-        "Aventure",
-        "Action"
+        "Horreur"
       ],
-      "poster": "https://image.tmdb.org/t/p/w342/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/4QyI8LN9Eulb6LZ9g4aJN7dCDvm.jpg",
       "actors": [],
       "similar_movies": [],
       "id": 12
     },
     {
-      "title": "Karel, Me and You",
-      "release_date": "2019-11-14",
-      "description": "",
+      "title": "Mad Max: Fury Road",
+      "release_date": "2015-05-13",
+      "description": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
       "categories": [
-        "Aventure"
+        "Action",
+        "Science-Fiction"
       ],
-      "poster": "https://image.tmdb.org/t/p/w342/xGj7tEu2mKKUFCk4Jj9AFebBtYI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
       "actors": [],
       "similar_movies": [],
       "id": 14
@@ -185,16 +185,43 @@
       "id": 22
     },
     {
-      "title": "Les Nouvelles aventures des Tortues Ninja L'enfer est dans la rue",
-      "release_date": "1987-01-01",
-      "description": "",
+      "title": "My Little Pony: A New Generation",
+      "release_date": "2021-09-23",
+      "description": "Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.",
       "categories": [
-        "Aventure"
+        "Aventure",
+        "Action",
+        "Comédie",
+        "Drame",
+        "Science-Fiction"
       ],
-      "poster": "https://image.tmdb.org/t/p/w342/jUAU75ZASa16icqM6SiHNSxxsGL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/hzq5XRGgm6NDMOW1idUvbpGqEkv.jpg",
       "actors": [],
       "similar_movies": [],
       "id": 23
+    },
+    {
+      "title": "Cars 3",
+      "release_date": "2017-06-15",
+      "description": "",
+      "categories": [],
+      "poster": "https://image.tmdb.org/t/p/w342/fyy1nDC8wm553FCiBDojkJmKLCs.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 24
+    },
+    {
+      "title": "Alexander",
+      "release_date": "2004-11-21",
+      "description": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.",
+      "categories": [
+        "Action",
+        "Science-Fiction"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/faVET7EulRCnYRwi65jnHqR2di8.jpg",
+      "actors": [],
+      "similar_movies": [],
+      "id": 25
     }
   ]
 }
