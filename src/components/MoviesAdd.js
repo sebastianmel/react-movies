@@ -2,6 +2,7 @@ import { useState } from 'react';
 import axios from "axios";
 import AsyncSelect from 'react-select/async';
 import Movies from './Movies';
+import { NavLink } from 'react-router-dom';
 
 
 const Add = () => {
@@ -33,12 +34,12 @@ const Add = () => {
           axios.spread((...responses) => {
             const similar_movies = responses[0].data.results.map(movie =>({
                 title : movie.title,
-                poster  : (typeof movie.profile_path === null) ? "https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png" :  "https://image.tmdb.org/t/p/w342"+movie.poster_path,
-                release_date : movie.release_date
+                poster  :  movie.profile_path === null ? "https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png" :  "https://image.tmdb.org/t/p/w342"+movie.poster_path,
+                release_date : movie.release_date,
                 
             })).slice(0, 3);
             const actors = responses[1].data.cast.map(act =>({
-                photo :  (typeof act.profile_path === null) ? "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg" : "https://image.tmdb.org/t/p/w342"+act.profile_path,
+                photo :  act.profile_path === null ? "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg" : "https://image.tmdb.org/t/p/w342"+act.profile_path,
                 character : act.character,
                 name: act.original_name,
 
@@ -126,10 +127,10 @@ const Add = () => {
             const response = await Movies.search(inputValue);
             return response.data.results;
         } catch (e) {
-            // console.log(e);
+            
         }
     }
-    // console.log(selectedValue);
+    
     
 
     return (
@@ -155,8 +156,7 @@ const Add = () => {
 
 
                     <hr></hr>
-                    {/* <label for="exampleFormControlInput1">Nom du film</label>
-                    <input id="monNavigateur" name="title" value={data.title||selectedValue.title} onChange={ChangeAdd} ></input> */}
+                    
                     
                    
 
@@ -225,7 +225,7 @@ const Add = () => {
 
 
 
-                <button type="button" class="btn btn-outline-success" onClick={AddMovie} >Ajouter</button>
+                <NavLink exact to={`/`}><button type="button" class="btn btn-outline-success" onClick={AddMovie} >Ajouter</button></NavLink>
 
 
 

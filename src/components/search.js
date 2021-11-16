@@ -1,14 +1,14 @@
-import React from 'react';
+// import React from 'react';
 
-const search = () => {
-    const searchValue = document.querySelector(".filterinput").addEventListener((e)=>{
-        console.log(e.target);
-    })
-    return (
-        <div>
+// const search = () => {
+//     const searchValue = document.querySelector(".filterinput").addEventListener((e)=>{
+//         console.log(e.target);
+//     })
+//     return (
+//         <div>
             
-        </div>
-    );
-};
+//         </div>
+//     );
+// };
 
-export default search;
+// export default search;

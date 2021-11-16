@@ -3,12 +3,13 @@ import axios from 'axios';
 import { NavLink } from 'react-router-dom';
 import MoviesDel from './MoviesDel'
 import { Button } from 'react-bootstrap';
+import Clear from './clear';
 
 
 
 const Films = () => {
     const [data, setData] = useState('');
-    
+   
 
     useEffect(() => {
         axios
@@ -18,9 +19,13 @@ const Films = () => {
             
             
     }, []);
+   
 
     function search (){
+        
         const searchValue = document.querySelector(".filterinput").value;
+        
+       
         console.log(searchValue);
 
     }
@@ -35,7 +40,8 @@ const Films = () => {
 
                 <input className="filterinput" type="search"   ></input>
                 &#160; &#160;
-                <Button className="filterButton"  variant="outline-secondary" onClick={search}>Recherche</Button>
+                <Button className="filterButton"  variant="outline-secondary" onClick={search}>Recherche</Button> &#160; &#160;
+                <Clear/>
             </form><br></br>
             <div className="films-list">
 

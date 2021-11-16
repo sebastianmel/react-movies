@@ -41,7 +41,7 @@ function Boutton() {
             {data &&
                 <div className="container">
 
-                <NavLink exact to={`/edit/${data.id}`}><Button className="boutton">Modifier</Button></NavLink>
+                <NavLink exact to={`/edit/${data.id}`}><Button className="editBtn">Modifier</Button></NavLink>
                     <div className="off">
 
                         <h1>{data.title} <br></br> </h1>

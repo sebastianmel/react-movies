@@ -13,6 +13,7 @@ const Ajout = () => {
             <Logo/>
             <Navigation/>
            <h1> Ajout de films :</h1>
+           
             <Add/>
            
         </div>

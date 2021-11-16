@@ -21,7 +21,7 @@ const Delete = ({id,setData}) => {
                     )
                     .then(movie=>{
                         setData(
-                            movie.data
+                            movie.data.reverse()
                         )
                     })
             });
