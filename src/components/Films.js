@@ -8,24 +8,34 @@ import { Button } from 'react-bootstrap';
 
 const Films = () => {
     const [data, setData] = useState('');
-
+    
 
     useEffect(() => {
         axios
             .get('http://localhost:3000/movies')
             .then((res) => setData(res.data.reverse()));
 
-
+            
+            
     }, []);
 
-    console.log(data);
+    function search (){
+        const searchValue = document.querySelector(".filterinput").value;
+        console.log(searchValue);
+
+    }
+
+    
+   
+
+    
     return (
         <div className="films">
             <form className="filterBar">
 
-                <input className="filterinput" type="text"  ></input>
+                <input className="filterinput" type="search"   ></input>
                 &#160; &#160;
-                <Button className="filterButton" type="submit" variant="outline-secondary">Recherche</Button>
+                <Button className="filterButton"  variant="outline-secondary" onClick={search}>Recherche</Button>
             </form><br></br>
             <div className="films-list">
 
