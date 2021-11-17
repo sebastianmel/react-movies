@@ -61,6 +61,1373 @@
         }
       ],
       "id": 1
+    },
+    {
+      "title": "Nemesis",
+      "release_date": "1992-12-26",
+      "description": "In the future, chaos is rampant as 'information terrorists' threaten to destroy order in society. Alex is a part-man, part-machine LAPD cop who is the best at what he does. When one of the terrorists calls him a machine, Alex questions his humanity and decides to leave the force. His final assignment is to apprehend an old colleague who has stolen some data. However, there is more than meets the eye and Alex must question his allegiance.",
+      "categories": [
+        "Drame"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/oJG7NZyygoOaPU6TbdfK81ZZ93j.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/8D6Wh7GZDgr3jRo508eXZ8lwDs1.jpg",
+          "character": "Alex",
+          "name": "Olivier Gruner"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/dCqpmO9nDA07NYSdyQF5JYnmxpL.jpg",
+          "character": "Farnsworth",
+          "name": "Tim Thomerson"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/2BnJ59djJql8y0V2Z6bycYbh2cK.jpg",
+          "character": "Julian",
+          "name": "Deborah Shelton"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/zxKQN4pDpqgVyhJ0td6WqY4mGsv.jpg",
+          "character": "Angie-Liv",
+          "name": "Cary-Hiroyuki Tagawa"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/fx7NounjDvI6sjCC3Xa1Vsms8nE.jpg",
+          "character": "Max Impact",
+          "name": "Merle Kennedy"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/dSA11Xw5JX7uJ3SSFWc1eimtoY4.jpg",
+          "character": "Germaine",
+          "name": "Nicholas Guest"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "JLA Adventures: Trapped in Time",
+          "poster": "https://image.tmdb.org/t/p/w342/bm8LNDoKWWPnDTEAxJ6VrlPHWub.jpg",
+          "release_date": "2014-01-21"
+        },
+        {
+          "title": "Logan",
+          "poster": "https://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+          "release_date": "2017-02-28"
+        },
+        {
+          "title": "Terminator: Dark Fate",
+          "poster": "https://image.tmdb.org/t/p/w342/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg",
+          "release_date": "2019-10-23"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "Alexander",
+      "release_date": "2004-11-21",
+      "description": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.",
+      "categories": [
+        "Policier"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/faVET7EulRCnYRwi65jnHqR2di8.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/lZ3dU4uFEV4BccAEvjJUBIY2OaB.jpg",
+          "character": "Alexander",
+          "name": "Colin Farrell"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/k3W1XXddDOH2zibPkNotIh5amHo.jpg",
+          "character": "Olympias",
+          "name": "Angelina Jolie"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/uqX8JxI6bWs1I3BOAtzJJD0DDo6.jpg",
+          "character": "Philip",
+          "name": "Val Kilmer"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg",
+          "character": "Hephaistion",
+          "name": "Jared Leto"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/RsrGA98aMmyjTTxTLhAaOqnfLz.jpg",
+          "character": "Cassander",
+          "name": "Jonathan Rhys Meyers"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/9ukJS2QWTJ22HcwR1ktMmoJ6RSL.jpg",
+          "character": "Old Ptolemy",
+          "name": "Anthony Hopkins"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "Live Free or Die Hard",
+          "poster": "https://image.tmdb.org/t/p/w342/31TT47YjBl7a7uvJ3ff1nrirXhP.jpg",
+          "release_date": "2007-06-20"
+        },
+        {
+          "title": "Die Hard: With a Vengeance",
+          "poster": "https://image.tmdb.org/t/p/w342/amwo4CjYKynZ2yKvKMxoiRSsaE1.jpg",
+          "release_date": "1995-05-19"
+        },
+        {
+          "title": "Die Hard 2",
+          "poster": "https://image.tmdb.org/t/p/w342/wUEizkONxPZmIWQ2lnMttW0suXH.jpg",
+          "release_date": "1990-07-02"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "The Last of the Mohicans",
+      "release_date": "1920-11-21",
+      "description": "As Alice and Cora Munro attempt to find their father, a British officer in the French and Indian War, they are set upon by French soldiers and their cohorts, Huron tribesmen led by the evil Magua. Fighting to rescue the women are Chingachgook and his son Uncas, the last of the Mohican tribe, and their white ally, the frontiersman Natty Bumppo, known as Hawkeye.",
+      "categories": [
+        "Action",
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/5eJhlJazUfO7erhAzChYrfX34tE.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/gAOXwQoHMM9CkmA9FPpE5jq6Rzg.jpg",
+          "character": "Magua",
+          "name": "Wallace Beery"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/t24JEDo4JfpTXjrO6VsG6r4kaNe.jpg",
+          "character": "Cora Munro",
+          "name": "Barbara Bedford"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "Uncas",
+          "name": "Alan Roscoe"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "Alice Munro",
+          "name": "Lillian Hall"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "Maj. Heyward",
+          "name": "Henry Woodward"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/ngVF1uIAGqnZULYGu43OzRV6VfR.jpg",
+          "character": "Col. Munro",
+          "name": "James Gordon"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "My Week With Marilyn",
+          "poster": "https://image.tmdb.org/t/p/w342/5naqXRY1Zug5cyJJbO9H4DOg28q.jpg",
+          "release_date": "2011-11-23"
+        },
+        {
+          "title": "Percy Jackson: Sea of Monsters",
+          "poster": "https://image.tmdb.org/t/p/w342/y4j0oCo6v6G3GKCumMjy4QdFlmR.jpg",
+          "release_date": "2013-08-07"
+        },
+        {
+          "title": "The Lucky One",
+          "poster": "https://image.tmdb.org/t/p/w342/vK3A2i5dPCSB4vYBMcDZzm8DfRd.jpg",
+          "release_date": "2012-04-19"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "Cop Car",
+      "release_date": "2015-08-07",
+      "description": "Two kids find themselves in the centre of a deadly game of cat and mouse after taking a sheriff's cruiser for a joy ride.",
+      "categories": [
+        "Action"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/o1JBr2htdBNyEKeIwGGr8Bwh1Bn.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg",
+          "character": "Sheriff Kretzer",
+          "name": "Kevin Bacon"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/oWYiNpLFKMALq7pEt62XWFevQjO.jpg",
+          "character": "Travis",
+          "name": "James Freedson-Jackson"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/gTuoxG9OJxPld8UWsM8OCq6L7LS.jpg",
+          "character": "Harrison",
+          "name": "Hays Wellford"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/eI42MrAyzJ3vbiGSIQB0FCwecba.jpg",
+          "character": "Bev",
+          "name": "Camryn Manheim"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg",
+          "character": "Man",
+          "name": "Shea Whigham"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "Motorcycle Cop",
+          "name": "Sean Hartley"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "End of Watch",
+          "poster": "https://image.tmdb.org/t/p/w342/pDeVKQICkcdwwjHxGj0MeS14YJ6.jpg",
+          "release_date": "2012-09-20"
+        },
+        {
+          "title": "Black Butterfly",
+          "poster": "https://image.tmdb.org/t/p/w342/toB9yjJssyJZSworX0KePbjSexP.jpg",
+          "release_date": "2017-05-26"
+        },
+        {
+          "title": "The Last Stand",
+          "poster": "https://image.tmdb.org/t/p/w342/4PGpdWDQOjlsMcMIyTwI5Q9jPRJ.jpg",
+          "release_date": "2013-01-12"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "Lo siniestro",
+      "release_date": "2009-11-24",
+      "description": "",
+      "categories": [
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/sXKLBD0tFMAjNuCGLbwBFnRZnkV.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/e2S6EHCReRFBHAd0RJnNDVBFDWq.jpg",
+          "character": "",
+          "name": "Paula Siero"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/zkrHNZJNn4lJX1zuRP74C6YvI5G.jpg",
+          "character": "",
+          "name": "Luis Ziembrowski"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/fpCxbcIjtc8O4haMOprMP20fUTr.jpg",
+          "character": "",
+          "name": "Mario Alarcón"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "",
+          "name": "Laura Bove"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/3YmZxunH3WvtCRcsG43kmVk4tYt.jpg",
+          "character": "",
+          "name": "Carlos Echevarría"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "",
+          "name": "Luciana Ligorio"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "V/H/S/2",
+          "poster": "https://image.tmdb.org/t/p/w342/7tdHgMOyyylpMhr05MhQ5IYmD50.jpg",
+          "release_date": "2013-06-06"
+        },
+        {
+          "title": "Ghost Team One",
+          "poster": "https://image.tmdb.org/t/p/w342/dfZERS5Xk1s4xuPpkEn5o2acQu.jpg",
+          "release_date": "2013-01-20"
+        },
+        {
+          "title": "The Haunting of Helena",
+          "poster": "https://image.tmdb.org/t/p/w342/iB8rf8FYHGlrbmLybCo6Mpg8hNt.jpg",
+          "release_date": "2013-01-14"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "title": "Cars 3",
+      "release_date": "2017-06-15",
+      "description": "Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn't through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!",
+      "categories": [
+        "Aventure",
+        "Comédie"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/fyy1nDC8wm553FCiBDojkJmKLCs.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/34pX2sQj9DddaQWRBGukSWYdXxS.jpg",
+          "character": "Mater (voice)",
+          "name": "Larry the Cable Guy"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/op8sGD20k3EQZLR92XtaHoIbW0o.jpg",
+          "character": "Lightning McQueen (voice)",
+          "name": "Owen Wilson"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/1ZvNNoqI2bDiP44H3XoTXwGnj0F.jpg",
+          "character": "Cruz Ramirez (voice)",
+          "name": "Cristela Alonzo"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/sJKghcu9wRDIvKM0cI7kqNXYRfS.jpg",
+          "character": "Smokey Yunick (voice)",
+          "name": "Chris Cooper"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg",
+          "character": "Sterling (voice)",
+          "name": "Nathan Fillion"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/dacZbbnheEhejYbkDgz7WhhSBJp.jpg",
+          "character": "Jackson Storm (voice)",
+          "name": "Armie Hammer"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "Live Free or Die Hard",
+          "poster": "https://image.tmdb.org/t/p/w342/31TT47YjBl7a7uvJ3ff1nrirXhP.jpg",
+          "release_date": "2007-06-20"
+        },
+        {
+          "title": "Die Hard: With a Vengeance",
+          "poster": "https://image.tmdb.org/t/p/w342/amwo4CjYKynZ2yKvKMxoiRSsaE1.jpg",
+          "release_date": "1995-05-19"
+        },
+        {
+          "title": "Die Hard 2",
+          "poster": "https://image.tmdb.org/t/p/w342/wUEizkONxPZmIWQ2lnMttW0suXH.jpg",
+          "release_date": "1990-07-02"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "title": "Sex and Lucía",
+      "release_date": "2001-08-24",
+      "description": "Various lives converge on an isolated island, all connected by an author whose novel has become inextricably entwined with his own life.",
+      "categories": [
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/gvErAg9bv7xOO3B40gottv6Bqip.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/fNLlJysFd5f0Q8Lj20EZpU8BiRN.jpg",
+          "character": "Lucía",
+          "name": "Paz Vega"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/sglKcvdU3e8hTy1kOghEbT0GdHS.jpg",
+          "character": "Lorenzo",
+          "name": "Tristán Ulloa"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/hvLbKkDIT4FqSS8djmW5voNd0O4.jpg",
+          "character": "Elena",
+          "name": "Najwa Nimri"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/oGmcHkMKLznWXfthIounxGI6mHc.jpg",
+          "character": "Carlos/Antonio",
+          "name": "Daniel Freire"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/hSkjzOfvRQ8DUJdhWveIKgRlyXb.jpg",
+          "character": "Belén",
+          "name": "Elena Anaya"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "Luna",
+          "name": "Silvia Llanos"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "What Lies Below",
+          "poster": "https://image.tmdb.org/t/p/w342/40TY0AvixFZFrGGcvAInP6XoVhm.jpg",
+          "release_date": "2020-12-17"
+        },
+        {
+          "title": "The Skin I Live In",
+          "poster": "https://image.tmdb.org/t/p/w342/wlTHU4M3Hmkxntnfv4iVMeMnPg2.jpg",
+          "release_date": "2011-08-17"
+        },
+        {
+          "title": "The Human Centipede 2 (Full Sequence)",
+          "poster": "https://image.tmdb.org/t/p/w342/2cMTX2BQVJDZfFlnPL5dDstmLfz.jpg",
+          "release_date": "2011-10-06"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "title": "American Badger",
+      "release_date": "2021-03-05",
+      "description": "A seemingly cold-blooded hitman is assigned to befriend a call girl, but all hell breaks loose when he is assigned to kill her.",
+      "categories": [
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/8mO2ZTTOnLnaEQd1sNZAE2XBoOg.jpg",
+      "actors": [
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "Dean",
+          "name": "Kirk Caouette"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/aVEunF7okwfWiaDJlBLxEkjVb0i.jpg",
+          "character": "Marcella Horvathova / Velvet",
+          "name": "Andrea Stefancikova"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/i6J24oJfHH4rb8O0HlKnt6IkrgK.jpg",
+          "character": "Vasily",
+          "name": "Michael Kopsa"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "Velvet's Brother",
+          "name": "Milan Stefancik"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/zxxoFuifUlXhjtgoSd0GQ499ECw.jpg",
+          "character": "John / Voice of Cartel Leader",
+          "name": "Zak Santiago"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/58REQAaSAbiAnCptqrhx6bDhTQc.jpg",
+          "character": "Richard",
+          "name": "Adrian Hough"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "T2 Trainspotting",
+          "poster": "https://image.tmdb.org/t/p/w342/xlbpCwa9OXXIiNgXcwuompHFIk9.jpg",
+          "release_date": "2017-01-27"
+        },
+        {
+          "title": "Ninja: Shadow of a Tear",
+          "poster": "https://image.tmdb.org/t/p/w342/7NlwlXXmq3D4UZmcsQj58hcAf6m.jpg",
+          "release_date": "2013-12-27"
+        },
+        {
+          "title": "The Drop",
+          "poster": "https://image.tmdb.org/t/p/w342/tISeGHqQTzL91FVf8y6wyDU3TIO.jpg",
+          "release_date": "2014-09-12"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "title": "Titeuf",
+      "release_date": "2011-04-06",
+      "description": "Titeuf is a comic series created by Swiss draughtsman Zep (real name Philippe Chapuis) depicting the life of a young boy (the title's namesake Titeuf, \"Tootuff\" in the English translation) and his vision of the adult world & themes such as love, sex, seduction and mysteries about the girls.  In this film, Titeuf (Donald Reignoux) is off on a new comedic adventure! Things get complicated when Nadia (Melanie Bernier) doesn’t invite Titeuf to her birthday party, which is surely the most horrible moment of his life. Before long, Titeuf’s whole life is turned upside down when his parents are nearly deported. Everything continues to spiral out of control even in the midst of Titeuf’s exhaustive attempts to make matters right.",
+      "categories": [
+        "Action"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/3gNhlzuvJ8TP0utG6fBnqAuuzy2.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/dd1p7arCjcGr6BpK1TB1Xdo5g21.jpg",
+          "character": "Titeuf / Hugo (voice)",
+          "name": "Donald Reignoux"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/83BOjMLKFv7ygHmtyVNuNJ1oUA6.jpg",
+          "character": "Nadia",
+          "name": "Mélanie Bernier"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/qMFhg0ud8QnzKe1t5UeyrBH0UXN.jpg",
+          "character": "Manu / Zizie",
+          "name": "Nathalie Homs"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/k9ahrxy9lNlCk4pAqzxJRK6FWJv.jpg",
+          "character": "Papa",
+          "name": "Sam Karmann"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/tPHpgD3ssDrHt6VgcajH2pD61cv.jpg",
+          "character": "Maman",
+          "name": "Zabou Breitman"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/lZGEqJXsWi4xq4wjU1bFljf40xi.jpg",
+          "character": "Mémé (voice)",
+          "name": "Maria Pacôme"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "My Week With Marilyn",
+          "poster": "https://image.tmdb.org/t/p/w342/5naqXRY1Zug5cyJJbO9H4DOg28q.jpg",
+          "release_date": "2011-11-23"
+        },
+        {
+          "title": "The Grey",
+          "poster": "https://image.tmdb.org/t/p/w342/a0Vt3wx8ciKmPt4iXPx9sH4HBVU.jpg",
+          "release_date": "2011-09-14"
+        },
+        {
+          "title": "The Star Wars Holiday Special",
+          "poster": "https://image.tmdb.org/t/p/w342/1TY4OAkcHRovlHDxSLW7UDJlild.jpg",
+          "release_date": "1978-12-01"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "title": "Fight Back to School 2",
+      "release_date": "1992-04-09",
+      "description": "Star Chow (Stephen Chow) is an officer in the Royal Hong Kong Police's elite Special Duties Unit (SDU). During a meeting with his senior officer, Inspector Yip (Deanie Ip), Star jokingly suggests he wishes to be reassigned to the traffic unit. Star immediately finds himself demoted to Constable engaging in traffic duty on the streets of Hong Kong. After being made the scapegoat for a failed high school terrorist investigation, Star hastily resigns from the police. He decides to enroll at the high school to launch his own private investigation. But Star realises the investigation won't be easy when he discovers that the bumbling, incompetent CID detective Tat (Ng Man Tat) is also undercover at the high school.",
+      "categories": [
+        "Action"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/JJCoNs7qbc576alCLgg1E97rfn.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/rO1e30Yq7KzgZFAXZDosyAShhhM.jpg",
+          "character": "Chow Sing Sing",
+          "name": "Stephen Chow"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/mHu0edLezIp5gPYzPX7w4d2Iw15.jpg",
+          "character": "Miss Ho",
+          "name": "Sharla Cheung"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/l0v7Fn5qPizk7Mt2WGNHiMF8hx5.jpg",
+          "character": "Tso Tat-Wah",
+          "name": "Ng Man-tat"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/opemlo5xlLSWnld15A3rW6kjDoQ.jpg",
+          "character": "Sandy Lai",
+          "name": "Athena Chu"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/mlMA3DjS3pkTfyHfDzDV63DnRHD.jpg",
+          "character": "Insp. Lydia Wong (RCU)",
+          "name": "Deanie Ip"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "Secretary of security",
+          "name": "Paul Fonoroff"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "The Aristocats",
+          "poster": "https://image.tmdb.org/t/p/w342/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg",
+          "release_date": "1970-12-24"
+        },
+        {
+          "title": "Critters 2",
+          "poster": "https://image.tmdb.org/t/p/w342/5rR3dVJXnXskkBBWKbLg5EDKWtT.jpg",
+          "release_date": "1988-04-29"
+        },
+        {
+          "title": "Cyborg",
+          "poster": "https://image.tmdb.org/t/p/w342/nOspcG8HP6KPdMvzezavRbzYCEw.jpg",
+          "release_date": "1989-04-07"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "title": "Yu-Gi-Oh! The Movie",
+      "release_date": "2004-08-13",
+      "description": "After the conclusion of the Battle City Tournament, deep below the sands of Egypt, an ancient evil has awakened. Anubis, who was defeated centuries ago by Yugi’s mysterious alter ego – the ancient Pharaoh – has returned for revenge. Wielding the power of the Eighth Millennium Item, Anubis is determined to destroy Yugi and take over the world.",
+      "categories": [
+        "Action",
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/3VD5QDTu0rQgRvERBMXtAvg0oIC.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/wkAlptFZHz6AtgNE4NBMs7EnOGn.jpg",
+          "character": "Yugi Muto / Yami Yugi (voice)",
+          "name": "Shunsuke Kazama"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/yFpSPNHqYN4rdRiVpVaYmqXMkmi.jpg",
+          "character": "Seto Kaiba (voice)",
+          "name": "Kenjiro Tsuda"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/bYUzW4A3MZrUgol3Ne7UP5CTtzi.jpg",
+          "character": "Anubis (voice)",
+          "name": "Koji Ishii"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/8vC4fuIORjrgFcXle4bjgDeaNhE.jpg",
+          "character": "Katsuya Jounouchi (voice)",
+          "name": "Hiroki Takahashi"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "Hiroto Honda (voice)",
+          "name": "Hidehiro Kikuchi"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "Anzu Masaki (voice)",
+          "name": "Maki Saitou"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "Iron Man: Rise of Technovore",
+          "poster": "https://image.tmdb.org/t/p/w342/eHDez1uN5X2ZAq4niX7HvhyZIIO.jpg",
+          "release_date": "2013-04-24"
+        },
+        {
+          "title": "T2 Trainspotting",
+          "poster": "https://image.tmdb.org/t/p/w342/xlbpCwa9OXXIiNgXcwuompHFIk9.jpg",
+          "release_date": "2017-01-27"
+        },
+        {
+          "title": "Asura",
+          "poster": "https://image.tmdb.org/t/p/w342/n5e1Lk0T8pk67m4DoGearNFeNjW.jpg",
+          "release_date": "2012-09-29"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "title": "Just friendship",
+      "release_date": "2017-01-06",
+      "description": "A multi-layered, touching comedy about a group of friends whose relationships - in the face of life adversities - are exposed to more than one test. Filip risks his face and career for the whim of a crazy collector of Jadźka buttons. The sedate professor refuses his friend's indecent request, but he secretly kidnaps himself in a virtually reckless way. Meanwhile, a close-knit group of friends go to the mountains every year. There they discover a mystery that will change their lives forever. What will they choose? Loyalty or money? Friendship or love? Truth or lie? Own or other luck? Every choice for the heroes of the comedy \"Just friendship\" means trouble. Who will help them? We know: friends. Because friendship, like no other investment, always pays off.",
+      "categories": [
+        "Action"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/s03vuigOQFDFY9QL49wHQFj0Ikd.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/rNBuvBtJh6YuQkZUE24eYHJtYDh.jpg",
+          "character": "Julia",
+          "name": "Agnieszka Więdłocha"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/vo8Ql04OfabQahFm2DtzwlTJzA2.jpg",
+          "character": "Grzesiek",
+          "name": "Maciej Zakościelny"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/13S6mNQ400nXblERUDjam6oW90v.jpg",
+          "character": "Ivanka",
+          "name": "Magdalena Różczka"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/2JodmxstVv8WbPDTNKgyzqgsfOm.jpg",
+          "character": "Kamil",
+          "name": "Piotr Stramowski"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/92X5zMr0xZO6Y76LrjJWKLgnp5O.jpg",
+          "character": "Patryk",
+          "name": "Bartłomiej Topa"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/fW5Ah6locYLL8IyjK3UDRmcYywO.jpg",
+          "character": "Marian",
+          "name": "Marcin Perchuć"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "Blue Is the Warmest Color",
+          "poster": "https://image.tmdb.org/t/p/w342/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg",
+          "release_date": "2013-10-09"
+        },
+        {
+          "title": "The Wind Rises",
+          "poster": "https://image.tmdb.org/t/p/w342/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg",
+          "release_date": "2013-07-20"
+        },
+        {
+          "title": "Her",
+          "poster": "https://image.tmdb.org/t/p/w342/yk4J4aewWYNiBhD49WD7UaBBn37.jpg",
+          "release_date": "2013-12-18"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "title": "The Cat in the Hat",
+      "release_date": "2003-11-21",
+      "description": "Conrad and Sally Walden are home alone with their pet fish. It is raining outside, and there is nothing to do. Until The Cat in the Hat walks in the front door. He introduces them to their imagination, and at first it's all fun and games, until things get out of hand, and The Cat must go, go, go, before their parents get back.",
+      "categories": [
+        "Action"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg",
+          "character": "The Cat",
+          "name": "Mike Myers"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg",
+          "character": "Larry Quinn",
+          "name": "Alec Baldwin"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/8CZ211y721a6h9WggbmIIkSQplZ.jpg",
+          "character": "Sally Walden",
+          "name": "Dakota Fanning"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/wXjUAOLdCCqjeQXMklVK6s4Krwy.jpg",
+          "character": "Conrad Walden",
+          "name": "Spencer Breslin"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/kEBLn0igo3OcNgXQ6cpoPTEaIUv.jpg",
+          "character": "Joan Walden",
+          "name": "Kelly Preston"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/x5vR2MXZiWGHkppRXlXYj7y7611.jpg",
+          "character": "Mrs. Kwan",
+          "name": "Amy Hill"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "The Rover",
+          "poster": "https://image.tmdb.org/t/p/w342/734OOkr69mt8lyPk8iw3TwgQ90R.jpg",
+          "release_date": "2014-06-04"
+        },
+        {
+          "title": "Blue Jasmine",
+          "poster": "https://image.tmdb.org/t/p/w342/zLdLiUJfueZBctdv8OvkmGXEHEC.jpg",
+          "release_date": "2013-08-01"
+        },
+        {
+          "title": "Cinderella",
+          "poster": "https://image.tmdb.org/t/p/w342/ryKwNlAfDXu0do6SX9h4G9Si1kG.jpg",
+          "release_date": "2015-03-12"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "title": "Power Rangers",
+      "release_date": "2017-03-23",
+      "description": "Saban's Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove — and the world — is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it’s too late, band together as the Power Rangers.",
+      "categories": [
+        "Action",
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/7ghdRaVPoBmsDiBL4ZFhTFIJpkN.jpg",
+          "character": "Jason Lee Scott / The Red Ranger",
+          "name": "Dacre Montgomery"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/nNqqgP2yF1jkLZq9ndYcXOzTD2G.jpg",
+          "character": "Kimberly Hart / The Pink Ranger",
+          "name": "Naomi Scott"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/9baPsx4DJn2vy7AOfcfEe6IH5JN.jpg",
+          "character": "Billy Cranston / The Blue Ranger",
+          "name": "RJ Cyler"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/tYk0MfTPfen634I0tDNuImdPi43.jpg",
+          "character": "Trini / The Yellow Ranger",
+          "name": "Becky G"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/9Ila4K8POeuVWRO9hzyekFjvCDk.jpg",
+          "character": "Zack Taylor / The Black Ranger",
+          "name": "Ludi Lin"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/8LiP5wHNq3QpwoARquhkGcPSgjM.jpg",
+          "character": "Alpha 5 (voice)",
+          "name": "Bill Hader"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "Incredibles 2",
+          "poster": "https://image.tmdb.org/t/p/w342/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+          "release_date": "2018-06-14"
+        },
+        {
+          "title": "Monster Trucks",
+          "poster": "https://image.tmdb.org/t/p/w342/jDKONUh6CD6M1P0sgOe3RDxy31t.jpg",
+          "release_date": "2016-12-21"
+        },
+        {
+          "title": "Power Rangers",
+          "poster": "https://image.tmdb.org/t/p/w342/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg",
+          "release_date": "2017-03-23"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "title": "TEKKEN",
+      "release_date": "2010-03-20",
+      "description": "In the year of 2039, after World Wars destroy much of the civilization as we know it, territories are no longer run by governments, but by corporations; the mightiest of which is the Mishima Zaibatsu. In order to placate the seething masses of this dystopia, Mishima sponsors Tekken, a tournament in which fighters battle until only one is left standing.",
+      "categories": [
+        "Action"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/1xO2LirDZstkqZic1FwfK6GJIHH.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/uC9O2dEIkf53aFWQ1p5gMKXIKFF.jpg",
+          "character": "Jin Kazama",
+          "name": "Jon Foo"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/u1KnPtnHfdLCrImtONXCYwJDqZk.jpg",
+          "character": "Christie Monteiro",
+          "name": "Kelly Overton"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/zxKQN4pDpqgVyhJ0td6WqY4mGsv.jpg",
+          "character": "Heihachi Mishima",
+          "name": "Cary-Hiroyuki Tagawa"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/x5ePN7j7C4ZmytO5VoUOpiPEyRm.jpg",
+          "character": "Kazuya",
+          "name": "Ian Anthony Dale"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/bHdc67gZFzZ7RJmgYbMtfaCOT4R.jpg",
+          "character": "Steve Fox",
+          "name": "Luke Goss"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/mhGArPyh3N97t3PU4YnvLZTzHjl.jpg",
+          "character": "Eddy Gordo",
+          "name": "Lateef Crowder"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "Wendy Wu: Homecoming Warrior",
+          "poster": "https://image.tmdb.org/t/p/w342/70i9WopFTHmTJbKbKQGdYWBHnj6.jpg",
+          "release_date": "2006-06-16"
+        },
+        {
+          "title": "Rise of the Planet of the Apes",
+          "poster": "https://image.tmdb.org/t/p/w342/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
+          "release_date": "2011-08-03"
+        },
+        {
+          "title": "Silent Hill: Revelation 3D",
+          "poster": "https://image.tmdb.org/t/p/w342/2JOujdpYUeGg3886gigTAQq0na6.jpg",
+          "release_date": "2012-10-10"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "title": "Burn Out",
+      "release_date": "2018-01-03",
+      "description": "Tony, a promising young motorcycle racer, is forced to do perilous drug runs to save the mother of his child from a dangerous mobster.",
+      "categories": [
+        "Action"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/3LeFOvzjZuIC7cQiXDeSIy1ym7a.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/vSkggoDmEHl820VMBzpGkjARU2z.jpg",
+          "character": "Tony Rodrigues",
+          "name": "François Civil"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/r15C7VnXnyMJk8JyNQOJGaauiKA.jpg",
+          "character": "Miguel",
+          "name": "Olivier Rabourdin"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/81ZofzaZlQ4XKOR9PklmJKEdhcA.jpg",
+          "character": "Leyla",
+          "name": "Manon Azem"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/kNJWfwSMX4cwz8CduxGNtb4MSlw.jpg",
+          "character": "Jordan",
+          "name": "Samuel Jouy"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/hy5x2uuog2i7fyhhwyYnnBMjKrf.jpg",
+          "character": "Moussa",
+          "name": "Narcisse Mame"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/lNBebf27sqh0FTYyyvikp77R197.jpg",
+          "character": "Mike Paterson",
+          "name": "Sam Louwyck"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "The November Man",
+          "poster": "https://image.tmdb.org/t/p/w342/4ejNFbCgLMDAuy7jFQmc7cr6UAW.jpg",
+          "release_date": "2014-08-27"
+        },
+        {
+          "title": "Maze Runner: The Scorch Trials",
+          "poster": "https://image.tmdb.org/t/p/w342/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg",
+          "release_date": "2015-09-09"
+        },
+        {
+          "title": "Good People",
+          "poster": "https://image.tmdb.org/t/p/w342/zNhzWvhOJ18Twl5oKanVWT7bcSk.jpg",
+          "release_date": "2014-08-12"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "title": "Bruce Lee: The Man and the Legend",
+      "release_date": "1973-10-14",
+      "description": "This documentary tells the story of Bruce Lee and his unsuccessful efforts to start a acting career in the U.S., he returned to Hong Kong where he became an international star, and his death at age 32.",
+      "categories": [
+        "Action"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/zGGKIytpR7HELRIEpmK7G0CBiAc.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/vFtLJ37tjqPdq6oJr0OSpyo9Wcp.jpg",
+          "character": "Himself (archive footage)",
+          "name": "Bruce Lee"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+          "character": "Himself (archive footage)",
+          "name": "Jackie Chan"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/3ZMBd3nPKfOrevdyWQWbmMiWEXQ.jpg",
+          "character": "Himself",
+          "name": "Sammo Hung"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/m3uLikdhi9qObRvGVHsKX5H93lR.jpg",
+          "character": "Himself",
+          "name": "Chuck Norris"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/tEXCWBzrtq3xiF1rZI9FNjrD7ai.jpg",
+          "character": "Herself",
+          "name": "Nora Miao"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/plSEvpmZdn1vNZ9cGmfKDsghWfP.jpg",
+          "character": "Himself",
+          "name": "Raymond Chow Man-Wai"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "The Medallion",
+          "poster": "https://image.tmdb.org/t/p/w342/jLKdbksOvi5cDqUhwXdIpeLpKki.jpg",
+          "release_date": "2003-08-15"
+        },
+        {
+          "title": "Big Trouble in Little China",
+          "poster": "https://image.tmdb.org/t/p/w342/aeGy6SZua7eFXEZP9zAvrLkkbI2.jpg",
+          "release_date": "1986-05-30"
+        },
+        {
+          "title": "Behind Enemy Lines",
+          "poster": "https://image.tmdb.org/t/p/w342/2IVvws0ZuvOX4V4P6sisl6oVlj0.jpg",
+          "release_date": "2001-11-30"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "title": "Just friendship",
+      "release_date": "2017-01-06",
+      "description": "A multi-layered, touching comedy about a group of friends whose relationships - in the face of life adversities - are exposed to more than one test. Filip risks his face and career for the whim of a crazy collector of Jadźka buttons. The sedate professor refuses his friend's indecent request, but he secretly kidnaps himself in a virtually reckless way. Meanwhile, a close-knit group of friends go to the mountains every year. There they discover a mystery that will change their lives forever. What will they choose? Loyalty or money? Friendship or love? Truth or lie? Own or other luck? Every choice for the heroes of the comedy \"Just friendship\" means trouble. Who will help them? We know: friends. Because friendship, like no other investment, always pays off.",
+      "categories": [
+        "Action",
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/s03vuigOQFDFY9QL49wHQFj0Ikd.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/rNBuvBtJh6YuQkZUE24eYHJtYDh.jpg",
+          "character": "Julia",
+          "name": "Agnieszka Więdłocha"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/vo8Ql04OfabQahFm2DtzwlTJzA2.jpg",
+          "character": "Grzesiek",
+          "name": "Maciej Zakościelny"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/13S6mNQ400nXblERUDjam6oW90v.jpg",
+          "character": "Ivanka",
+          "name": "Magdalena Różczka"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/2JodmxstVv8WbPDTNKgyzqgsfOm.jpg",
+          "character": "Kamil",
+          "name": "Piotr Stramowski"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/92X5zMr0xZO6Y76LrjJWKLgnp5O.jpg",
+          "character": "Patryk",
+          "name": "Bartłomiej Topa"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/fW5Ah6locYLL8IyjK3UDRmcYywO.jpg",
+          "character": "Marian",
+          "name": "Marcin Perchuć"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "Blue Is the Warmest Color",
+          "poster": "https://image.tmdb.org/t/p/w342/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg",
+          "release_date": "2013-10-09"
+        },
+        {
+          "title": "The Wind Rises",
+          "poster": "https://image.tmdb.org/t/p/w342/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg",
+          "release_date": "2013-07-20"
+        },
+        {
+          "title": "Her",
+          "poster": "https://image.tmdb.org/t/p/w342/yk4J4aewWYNiBhD49WD7UaBBn37.jpg",
+          "release_date": "2013-12-18"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "title": "Z-O-M-B-I-E-S",
+      "release_date": "2018-02-16",
+      "description": "Two star-crossed freshmen – a zombie, Zed and a cheerleader, Addison – each outsiders in their unique ways, befriend each other and work together to show their high school and the Seabrook community what they can achieve when they embrace their differences.",
+      "categories": [
+        "Aventure",
+        "Drame"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/lz9jnzscteMWjpXBH09m1kCt35F.jpg",
+          "character": "Zed",
+          "name": "Milo Manheim"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/8n8cAwQfrqUesUn4ZdA0G0ezD2a.jpg",
+          "character": "Addison",
+          "name": "Meg Donnelly"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/5iXSw5K13vU10I0I86kNYG7FkcG.jpg",
+          "character": "Bucky",
+          "name": "Trevor Tordjman"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "Eliza",
+          "name": "Kylee Russell"
+        },
+        {
+          "photo": "https://www.americanaircraftsales.com/wp-content/uploads/2016/09/no-profile-img.jpg",
+          "character": "Bree",
+          "name": "Carla Jeffery"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/22u9JiTnCIXI3x3fV1zA8b1vOPJ.jpg",
+          "character": "Zoey",
+          "name": "Kingston Foster"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "The Half of It",
+          "poster": "https://image.tmdb.org/t/p/w342/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg",
+          "release_date": "2020-05-01"
+        },
+        {
+          "title": "Cinderella",
+          "poster": "https://image.tmdb.org/t/p/w342/clDFqATL4zcE7LzUwkrVj3zHvk7.jpg",
+          "release_date": "2021-09-03"
+        },
+        {
+          "title": "Z-O-M-B-I-E-S 2",
+          "poster": "https://image.tmdb.org/t/p/w342/frTwEqSMWQ27oQeuiBO5PT0ZNqq.jpg",
+          "release_date": "2020-06-13"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "title": "Turbo",
+      "release_date": "2013-07-11",
+      "description": "The tale of an ordinary garden snail who dreams of winning the Indy 500.",
+      "categories": [
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/tN4bjzZ3ePY57hpCTFk0Kc3oXAw.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+          "character": "Turbo (voice)",
+          "name": "Ryan Reynolds"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/kn7LAbFYP5RPC2r61tDx2CRUeuw.jpg",
+          "character": "Chet (voice)",
+          "name": "Paul Giamatti"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/4ZwGDhtZq6emoYLPEHFCXQubPCE.jpg",
+          "character": "Tito (voice)",
+          "name": "Michael Peña"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/mXN4Gw9tZJVKrLJHde2IcUHmV3P.jpg",
+          "character": "Whiplash (voice)",
+          "name": "Samuel L. Jackson"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg",
+          "character": "Angelo (voice)",
+          "name": "Luis Guzmán"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/8LiP5wHNq3QpwoARquhkGcPSgjM.jpg",
+          "character": "Guy Gagné (voice)",
+          "name": "Bill Hader"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "Minions",
+          "poster": "https://image.tmdb.org/t/p/w342/vlOgaxUiMOA8sPDG9n3VhQabnEi.jpg",
+          "release_date": "2015-06-17"
+        },
+        {
+          "title": "New Initial D the Movie - Legend 1: Awakening",
+          "poster": "https://image.tmdb.org/t/p/w342/jWpg5ShhtM3TpkxRmDJolWEs2Ic.jpg",
+          "release_date": "2014-08-24"
+        },
+        {
+          "title": "The Lego Ninjago Movie",
+          "poster": "https://image.tmdb.org/t/p/w342/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg",
+          "release_date": "2017-09-21"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "title": "American Sniper",
+      "release_date": "2014-12-25",
+      "description": "U.S. Navy SEAL Chris Kyle takes his sole mission—protect his comrades—to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.",
+      "categories": [
+        "Action"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/DPnessSsWqVXRbKm93PtMjB4Us.jpg",
+          "character": "Chris Kyle",
+          "name": "Bradley Cooper"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/wCYir8b8BLwDBtphjIgsrKBM0Ju.jpg",
+          "character": "Taya Renae Kyle",
+          "name": "Sienna Miller"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/xY40mgzeGCJrV6P5Vlh2TgIOmkR.jpg",
+          "character": "Goat - Winston",
+          "name": "Kyle Gallner"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/rZT7Lymev4ysRu3GiAbcUwCBldH.jpg",
+          "character": "Young Chris Kyle",
+          "name": "Cole Konis"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/viPTKv7ETKzgxwR0GiY1Vv8vHD3.jpg",
+          "character": "Wayne Kyle",
+          "name": "Ben Reed"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/shgjGfQG4jyR0qQJxn523aClKiM.jpg",
+          "character": "Debbie Kyle",
+          "name": "Elise Robertson"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "The Outsiders",
+          "poster": "https://image.tmdb.org/t/p/w342/pl8Tf36TAOb2i561yPbQ9xl4P4D.jpg",
+          "release_date": "1983-03-25"
+        },
+        {
+          "title": "Stand by Me",
+          "poster": "https://image.tmdb.org/t/p/w342/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+          "release_date": "1986-08-08"
+        },
+        {
+          "title": "The Godfather",
+          "poster": "https://image.tmdb.org/t/p/w342/eEslKSwcqmiNS6va24Pbxf2UKmJ.jpg",
+          "release_date": "1972-03-14"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "title": "22 Jump Street",
+      "release_date": "2014-06-05",
+      "description": "After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don't have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.",
+      "categories": [
+        "Aventure",
+        "Action",
+        "Comédie"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/ajB6cGvoy04438RzvfO6Sz28yMK.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/cymlWttB83MsAGR2EkTgANtjeRH.jpg",
+          "character": "Officer Morton Schmidt",
+          "name": "Jonah Hill"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/e5p1xrGtPfpJBQR9Pt3B6W4buZP.jpg",
+          "character": "Officer Greg Jenko",
+          "name": "Channing Tatum"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg",
+          "character": "Ghost",
+          "name": "Peter Stormare"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/f759e6y7uhobWRCmD0O21cBmjBA.jpg",
+          "character": "Zook",
+          "name": "Wyatt Russell"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/qETv9tHhB28ErtioBQWw7HaS352.jpg",
+          "character": "Maya Dickson",
+          "name": "Amber Stevens West"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/v3oJlWGjdV3aHNXtGjWea3X1Tov.jpg",
+          "character": "Mercedes",
+          "name": "Jillian Bell"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "Tinker Bell and the Pirate Fairy",
+          "poster": "https://image.tmdb.org/t/p/w342/qZLBe9Z8Y6WSDVqbqTQJUf8V1mp.jpg",
+          "release_date": "2014-02-13"
+        },
+        {
+          "title": "Free Birds",
+          "poster": "https://image.tmdb.org/t/p/w342/gnSU2wUBq2gTkBEkxY8C1d1fXAQ.jpg",
+          "release_date": "2013-10-30"
+        },
+        {
+          "title": "The Angry Birds Movie",
+          "poster": "https://image.tmdb.org/t/p/w342/nsaaZryqabtrdKwXcNud2Bm39mu.jpg",
+          "release_date": "2016-05-11"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "title": "21 Jump Street",
+      "release_date": "2012-03-14",
+      "description": "In high school, Schmidt was a dork and Jenko was the popular jock. After graduation, both of them joined the police force and ended up as partners riding bicycles in the city park. Since they are young and look like high school students, they are assigned to an undercover unit to infiltrate a drug ring that is supplying high school students synthetic drugs.",
+      "categories": [
+        "Action",
+        "Aventure",
+        "Comédie"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/cymlWttB83MsAGR2EkTgANtjeRH.jpg",
+          "character": "Officer Morton Schmidt / Doug McQuaid",
+          "name": "Jonah Hill"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/e5p1xrGtPfpJBQR9Pt3B6W4buZP.jpg",
+          "character": "Officer Greg Jenko / Brad McQuaid",
+          "name": "Channing Tatum"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/80DH2zWgZiXHehH7TLe6HKDldyl.jpg",
+          "character": "Molly Tracey",
+          "name": "Brie Larson"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/lgzjs56hk0ucf2rwQnSG5U3Q49i.jpg",
+          "character": "Eric Molson",
+          "name": "Dave Franco"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/wh95Pi0i2ESJtZTtN6WwtfHiGDX.jpg",
+          "character": "Mr. Walters",
+          "name": "Rob Riggle"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg",
+          "character": "Captain Dickson",
+          "name": "Ice Cube"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "A Nightmare on Elm Street 4: The Dream Master",
+          "poster": "https://image.tmdb.org/t/p/w342/boStYG7jKdoIZTduiOOsUVknD13.jpg",
+          "release_date": "1988-08-19"
+        },
+        {
+          "title": "Police Academy 2: Their First Assignment",
+          "poster": "https://image.tmdb.org/t/p/w342/cIyvBInW2aGms0zyV9Pgwp9UPJ4.jpg",
+          "release_date": "1985-03-28"
+        },
+        {
+          "title": "He's Just Not That Into You",
+          "poster": "https://image.tmdb.org/t/p/w342/ruc33YnCrmCL8PHdPQVzfa4shWX.jpg",
+          "release_date": "2009-02-06"
+        }
+      ],
+      "id": 24
     }
   ]
 }
