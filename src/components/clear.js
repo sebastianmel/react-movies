@@ -11,6 +11,7 @@ const Clear = ({data,setData}) => {
             .delete(
                 'http://localhost:3000/movies/',
 
+                alert('Tous les films sont supprimés avec succès'),
                 alert('Tous les films sont supprimés avec succès')
             )
             

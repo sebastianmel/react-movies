@@ -1428,6 +1428,127 @@
         }
       ],
       "id": 24
+    },
+    {
+      "title": "Titeuf",
+      "release_date": "2011-04-06",
+      "description": "Titeuf is a comic series created by Swiss draughtsman Zep (real name Philippe Chapuis) depicting the life of a young boy (the title's namesake Titeuf, \"Tootuff\" in the English translation) and his vision of the adult world & themes such as love, sex, seduction and mysteries about the girls.  In this film, Titeuf (Donald Reignoux) is off on a new comedic adventure! Things get complicated when Nadia (Melanie Bernier) doesn’t invite Titeuf to her birthday party, which is surely the most horrible moment of his life. Before long, Titeuf’s whole life is turned upside down when his parents are nearly deported. Everything continues to spiral out of control even in the midst of Titeuf’s exhaustive attempts to make matters right.",
+      "categories": [
+        "Action",
+        "Aventure",
+        "Comédie"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/3gNhlzuvJ8TP0utG6fBnqAuuzy2.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/dd1p7arCjcGr6BpK1TB1Xdo5g21.jpg",
+          "character": "Titeuf / Hugo (voice)",
+          "name": "Donald Reignoux"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/83BOjMLKFv7ygHmtyVNuNJ1oUA6.jpg",
+          "character": "Nadia",
+          "name": "Mélanie Bernier"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/qMFhg0ud8QnzKe1t5UeyrBH0UXN.jpg",
+          "character": "Manu / Zizie",
+          "name": "Nathalie Homs"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/k9ahrxy9lNlCk4pAqzxJRK6FWJv.jpg",
+          "character": "Papa",
+          "name": "Sam Karmann"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/tPHpgD3ssDrHt6VgcajH2pD61cv.jpg",
+          "character": "Maman",
+          "name": "Zabou Breitman"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/lZGEqJXsWi4xq4wjU1bFljf40xi.jpg",
+          "character": "Mémé (voice)",
+          "name": "Maria Pacôme"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "Lotoman",
+          "poster": "https://image.tmdb.org/t/p/w342/w9MFs8C5FkEl30H0KKDv6uHLAXp.jpg",
+          "release_date": "2011-03-10"
+        },
+        {
+          "title": "Snow White and the Huntsman",
+          "poster": "https://image.tmdb.org/t/p/w342/8HUa5kRubYbnAD5UVpnhTGGgMTW.jpg",
+          "release_date": "2012-05-30"
+        },
+        {
+          "title": "Honey 2",
+          "poster": "https://image.tmdb.org/t/p/w342/qQnWrF7khfYvpWdEeKhSuoDCGA5.jpg",
+          "release_date": "2011-06-23"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "title": "Re-Animator",
+      "release_date": "1985-10-18",
+      "description": "A dedicated student at a medical college and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue when an odd new student arrives on campus.",
+      "categories": [
+        "Policier",
+        "Aventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w342/1hY6AUl92cL9GdZx031UWFiGETt.jpg",
+      "actors": [
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/dfWcxKNsyGuN18GjWkbOmMhO4c9.jpg",
+          "character": "Herbert West",
+          "name": "Jeffrey Combs"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/9a2ve1mVCCEeO9GTR55UlC566wD.jpg",
+          "character": "Dan Cain",
+          "name": "Bruce Abbott"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/yXIEQiWM3hhgqmx2bJfRTp9341f.jpg",
+          "character": "Megan Halsey",
+          "name": "Barbara Crampton"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/8mv679cVSyqvbZkkPX38EJUWxk1.jpg",
+          "character": "Dr. Carl Hill",
+          "name": "David Gale"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/9vKQtyPmAkthF0Fr2dQSJXy5uGa.jpg",
+          "character": "Dean Alan Halsey",
+          "name": "Robert Sampson"
+        },
+        {
+          "photo": "https://image.tmdb.org/t/p/w342/rkNC80zwfLwDAb23eXZuyZO0JOO.jpg",
+          "character": "Dr. Harrod",
+          "name": "Carolyn Purdy-Gordon"
+        }
+      ],
+      "similar_movies": [
+        {
+          "title": "Choke",
+          "poster": "https://image.tmdb.org/t/p/w342/7osy71os3YLiFpNYn567koOnAKZ.jpg",
+          "release_date": "2008-09-26"
+        },
+        {
+          "title": "Dead Space: Downfall",
+          "poster": "https://image.tmdb.org/t/p/w342/w8KNXRQF9UzplokFlDrNMt0FkW7.jpg",
+          "release_date": "2008-10-27"
+        },
+        {
+          "title": "Death Sentence",
+          "poster": "https://image.tmdb.org/t/p/w342/3rdEAMh4a3pc7GO6fSkJwpt7BWX.jpg",
+          "release_date": "2007-08-31"
+        }
+      ],
+      "id": 26
     }
   ]
 }
